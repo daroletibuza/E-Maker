@@ -1,0 +1,189 @@
+\section{Übung 1}
+\subsection*{a$)$}
+
+\begin{minipage}[t]{0.33\textwidth}
+$\underline{\text{Gegeben:}}$
+\begin{itemize}
+	\item V=70 \si{\liter}
+	\item p=2 \si{\bar}
+	\item $\text{p}_{amb}$=1000 \si{\hecto\pascal}
+	\item T=(20+273)\si{\kelvin}=293\si{\kelvin}
+\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item $\rho$
+		\item m$_{Luft}$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	p*V=n*R*T
+	\end{equation}
+	\begin{equation}
+	\rho =\frac{m}{V}
+	\end{equation}
+	\begin{equation}
+	\text{p}_{abs} =\text{p}+\text{p}_0
+	\end{equation}
+\end{minipage}
+
+\vspace{1cm}
+
+Der Reifendruckmesser (\textbf{Manometer}) zeigt den Überdruck gegenüber der Atmosphäre an.
+
+\begin{equation}
+p_{amb}=\SI{1000}{\hecto\pascal}=\underline{10^5 \si{\pascal}}=\SI{1}{\bar}
+\end{equation}
+\begin{equation}
+	\text{p}_{abs}=10^5\si{\pascal}+2*10^5\si{\pascal}=\underline{3*10^5\si{\pascal}}
+\end{equation}
+\begin{flalign}
+p*V&=n*R*T\\
+&=m*R_i*T\\
+p&=\frac{m}{V}*R_i*T\\
+\rho=\frac{m}{V}&=\frac{p_{abs}}{R_i*T}
+\end{flalign}\\
+$\Longrightarrow$ spezifische Gaskonstante $R_i$ der Luft aus dem Internetz\\
+\begin{flalign}
+	\rho&=\frac{3*10^5\si{\pascal}}{\SI{287,6}{\joule\per\kilogram\per\kelvin}*\SI{293}{\kelvin}}\\
+	&=\underline{\underline{\SI{3,565}{\kilogram\per\cubic\meter}}}
+\end{flalign}
+\begin{flalign}
+	m&=\rho*V\\
+	&=\SI{3,565}{\kilogram\per\cubic\meter}*\SI{0,07}{\cubic\meter}\\
+	&=\underline{\underline{\SI{0,25}{\kilogram}}}
+\end{flalign}
+
+
+
+
+
+\subsection*{b$)$}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gegeben:}}$
+	\begin{itemize}
+		\item $V_1=\SI{0,5}{\liter}$
+		\item $p_{1,ü}=\SI{1,7}{\bar}$
+		\item $V_2=\frac13 *V_1 $
+		\item $p_{amb}=\SI{1,013}{\bar}$
+		\item $T=\SI{293}{\kelvin}$ (isotherm)
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item $p_2$
+		\item Überdruck oder Absolutdruck
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	\text{p}_{abs} =p_{ü}+p_{amb}
+	\end{equation}
+	\begin{equation}
+p_1*V_1=p_2*V_2	
+	\end{equation}
+	
+\end{minipage}
+
+\vspace{1cm}
+
+Das \textbf{Manometer} zeigt den Überdruck gegenüber der Atmosphäre an.
+
+\begin{equation}
+\text{p}_{1,abs}=1,013*10^5\si{\pascal}+1,7*10^5\si{\pascal}=\underline{2,713*10^5\si{\pascal}}
+\end{equation}
+
+\begin{flalign}
+	p_{1,abs}*V_1&=p_{2,abs}*V_2\\
+	p_{2,abs}	&=\frac{p_1*V_1}{V_2}=\frac{2,713*10^5\si{\pascal}*\SI{0,5}{\liter}}{\frac13 *\SI{0,5}{\liter}}\\
+	&=\underline{8,139*10^5\si{\pascal}}
+\end{flalign}
+\begin{flalign}
+	p_{2,ü}&=p_{2,abs}-p_{amb}=8,139*10^5\si{\pascal}-1,013*10^5\si{\pascal}\\
+	&=\underline{7,126*10^5\si{\pascal}}=\underline{\underline{7,126\si{\bar}}}
+\end{flalign}
+
+\subsection*{c$)$}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gegeben:}}$
+	\begin{itemize}
+		\item $\vartheta=\SI{25}{\degreeCelsius} $
+		\item $\rho= \SI{1,5}{\kilogram\per\cubic\meter}$
+		\item $p_{amb}=\SI{97000}{\pascal}$ 
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item $p_{ü}$ im Behälter
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	p*V=n*R*T
+	\end{equation}
+	\begin{equation}
+p_{abs} =p_{ü}+p_{amb}
+	\end{equation}
+	
+\end{minipage}
+\begin{flalign}
+	p*V&=n*R*T\\
+	p*V&=m*R_i*T\\
+	\rho=\frac{m}{V}&=\frac{p}{R_i*T}\\
+	\SI{1,5}{\kilogram\per\cubic\meter}&=\frac{p_{abs}}{\SI{296,8}{\joule\per\kilogram\per\kelvin}*\SI{298,15}{\kelvin}}\\
+	p_{abs}&=\underline{\SI{132736}{\pascal}}\\
+	p_{ü}&=p_{abs}-p{amb}=\SI{132736}{\pascal}-\SI{97000}{\pascal}\\
+	p_{ü}&=\underline{\underline{\SI{35736}{\pascal}=\SI{0,357}{bar}}}
+\end{flalign}
+
+\subsection*{d$)$}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gegeben:}}$
+	\begin{itemize}
+		\item Kugeltank
+		\item $\vartheta=\SI{10}{\degreeCelsius}$
+		\item $p_{1,Mano}=\SI{100}{\kilo\pascal}$
+		\item $p_{2,Mano}=\SI{200}{\kilo\pascal}$
+		\item $p_{amb}=\SI{100}{\kilo\pascal}$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item $\frac{m_{1,gas}}{m_{2,gas}}$
+		
+	\end{itemize}
+\end{minipage}\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	p_1*V_1=p_2*V_2
+	\end{equation}
+	\begin{equation}
+	p_{abs} = p_{ü}+p_{amb}
+	\end{equation}
+	\begin{equation}
+	p*V=M*R_i*T
+	\end{equation}
+\end{minipage}
+
+\begin{flalign}
+	p_{abs}&=p_{amb}+p_{ü}=p_{amb}+p_{Mano,1,2}\\
+	p_1&=\SI{100}{\kilo\pascal}+\SI{100}{\kilo\pascal}=\SI{200}{\kilo\pascal}\\
+	p_2&=\SI{100}{\kilo\pascal}+\SI{200}{\kilo\pascal}=\SI{300}{\kilo\pascal}
+\end{flalign}
+
+Aus dem Idealen Gasgesetz folgt, dass die Masse proportional dem Volumen ist. Daher:
+\begin{flalign}
+	V_1*p_1&=V_2*p_2\\
+	m_1*p_1&=m_2*p_2\\
+	\frac{m_1}{m_2}&=\frac{p_1}{p_2}\\
+	&=\frac{\SI{200}{\kilo\pascal}}{\SI{300}{\kilo\pascal}}\\
+	&=\underline{\underline{\frac23}}
+\end{flalign}
