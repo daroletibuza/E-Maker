@@ -1,0 +1,56 @@
+\section{Übung 2}
+\subsection*{a$)$}
+
+\begin{minipage}[t]{0.33\textwidth}
+$\underline{\text{Gegeben:}}$
+\begin{itemize}
+	\item $F_{Hand}=\SI{100}{\newton}$
+	\item $d_1=\SI{0,015}{\meter}$
+	\item $d_2=\SI{0,05}{\meter}$
+	\item $l_1=\SI{0,33}{\meter}$
+	\item $l_2=\SI{0,03}{\meter}$
+\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item Übersetzungsverhältnis gesamt $\frac{F_2}{F_{Hand}}$
+		\item Übersetzung hydrau\-lische Seite
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	\frac{F_1}{F_2}=\frac{A_2}{A_1}=\frac{l_2}{l_1}
+	\end{equation}
+\end{minipage}
+
+\vspace{1cm}
+
+Beachte, es liegt ein einseitiger Hebel vor! Darum besteht der lange Hebelarm $l_1$ aus dem gesamten Hebel, und nicht nur aus einer Seite vom Gelenk aus.
+\begin{flalign}
+A1&= \frac{\pi}{4}*d_1^2= \frac{\pi}{4}*(\SI{0,015}{\meter})^2\\
+&= \underline{\SI{176,5e-6}{\smeter}}\\
+A2&= \frac{\pi}{4}*d_2^2= \frac{\pi}{4}*(\SI{0,05}{\meter})^2\\
+&= \underline{\SI{1962,5e-6}{\smeter}}
+\end{flalign}
+
+Wirkung des Hebels:
+\begin{flalign}
+	\frac{F_{Hand}}{F1}&=\frac{l_1}{l_2}\\
+	F_1&=F_{Hand}*\frac{l_1}{l_2}=\SI{100}{\newton}*\frac{\SI{0,33}{\meter}}{\SI{0,03}{\meter}}\\
+	&=\underline{\SI{1100}{\newton}}
+\end{flalign}
+Wirkung der Hydraulik:
+\begin{flalign}
+	\frac{F_1}{F_2}&=\frac{A_2}{A_1}\\
+	F_2&=F_1*\frac{A_2}{A_1}\\
+	&=\SI{1100}{\newton}*\frac{\SI{1962,5e-6}{\smeter}}{\SI{176,5e-6}{\smeter}}\\
+	&=\underline{\SI{12230,9}{\newton}}
+\end{flalign}
+\begin{flalign}
+	\frac{F_{2}}{F_{Hand}}&=\frac{\SI{12230,9}{\newton}}{\SI{100}{\newton}}=\underline{\underline{122,309}}
+\end{flalign}
+\begin{flalign}
+\frac{F_{2}}{F_{1}}&=\frac{\SI{12230,9}{\newton}}{\SI{1100}{\newton}}=\underline{\underline{11,119}}
+\end{flalign}
