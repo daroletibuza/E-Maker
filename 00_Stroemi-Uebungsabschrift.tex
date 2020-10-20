@@ -31,8 +31,6 @@ pdfkeywords={},
 hidelinks
 ]{hyperref}
 
-%nur Text zum prüfen des Umfangs
-
 % Standard Packages
 %\usepackage[bottom]{footmisc}
 \usepackage[utf8]{inputenc}
@@ -99,6 +97,7 @@ hidelinks
 \DeclareSIUnit\degrees{^\circ}	
 \DeclareSIUnit\kmeter{\raiseto{3}\meter}	
 \DeclareSIUnit\smeter{\raiseto{2}\meter}	
+\DeclareSIUnit\g{\meter \per \raiseto{2}\second}	
 
 %Automatisch cdot statt *
 \DeclareMathSymbol{*}{\mathbin}{symbols}{"01}
@@ -199,11 +198,12 @@ hidelinks
 
 %\include{0A_abkurzungsverzeichnis}
 
-\include{02_uebung1}
 \setcounter{equation}{0}
 \include{03_uebung2}
 \setcounter{equation}{0}
 \include{13_uebung13}
+\setcounter{equation}{0}
+\include{02_uebung108}
 
 
 %\include{09_anhang}
