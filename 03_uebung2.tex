@@ -54,3 +54,112 @@ Wirkung der Hydraulik:
 \begin{flalign}
 \frac{F_{2}}{F_{1}}&=\frac{\SI{12230,9}{\newton}}{\SI{1100}{\newton}}=\underline{\underline{11,119}}
 \end{flalign}
+
+
+\subsection*{b$)$ - normal}
+
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gegeben:}}$
+	\begin{itemize}
+		\item $F=\SI{200}{\newton}$
+		\item $d_1=\SI{0,03}{\meter}$
+		\item $d_2=\SI{0,02}{\meter}$
+		\item $l_1=\SI{0,35}{\meter}$
+		\item $l_2=\SI{0,07}{\meter}$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item Systemdruck $p$
+		\item Anpressdruck der Bremsbacken $F_2$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	\frac{F_1}{F_2}=\frac{A_2}{A_1}=\frac{l_2}{l_1}
+	\end{equation}
+	\begin{equation}
+		p=\frac{F}{A}
+	\end{equation}
+\end{minipage}
+
+\vspace{1cm}
+
+Wirkung des Hebels:
+\begin{flalign}
+\frac{F}{F_1}&=\frac{l_1}{l_2}\\
+F_1&=F*\frac{l_1}{l_2}=\SI{200}{\newton}*\frac{\SI{0,35}{\meter}}{\SI{0,07}{\meter}}\\
+&=\underline{\SI{1000}{\newton}}
+\end{flalign}
+
+
+Druck im System:
+
+Druck ist Kraft pro Fläche.
+
+\begin{flalign}
+	p_1&=\frac{F1}{A1}\\
+	&=\frac{\SI{1000}{\newton}}{\frac{\pi}{4}*(\SI{0,03}{\meter})^2}\\
+	&=\underline{\underline{\SI{1,415E6}{\pascal}}}
+\end{flalign}
+
+Druck auf die Bremsbacken:
+
+\begin{flalign}
+F&=A*p\\
+F_2&=A_2*p_1=\left( \frac{\pi}{4}*(\SI{0,02}{\meter})^2 \right) *\SI{1,415E6}{\pascal}\\
+&= \underline{\underline{\SI{444,5}{\newton}}}
+\end{flalign}
+
+
+
+\newpage
+
+\subsection*{b$)$ - Druckwandler}
+
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gegeben:}}$
+	\begin{itemize}
+		\item $d_1=\SI{0,016}{\meter}$
+		\item $d_{1,2}=\SI{0,04}{\meter}$
+		\item $d_2= \SI{0,018}{meter}$
+		\item $l_1=\SI{0,35}{\meter}$
+		\item $l_2=\SI{0,07}{\meter}$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Gesucht:}}$
+	\begin{itemize}
+		\item Benötigte Kraft am Bremspedal ($F_{neu}$)
+		
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+	$\underline{\text{Verwendete Formeln:}}$
+	\begin{equation}
+	\frac{F_1}{F_2}=\frac{A_2}{A_1}=\frac{l_2}{l_1}
+	\end{equation}
+	\begin{equation}
+		\frac{p_1}{p_2}=\frac{A_2}{A_1}=\frac{d_2}{d_1}
+	\end{equation}
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{flalign}
+	\frac{F_{neu}}{F_1}&=\frac{l_2}{l_1}\\
+	F_1&=p_2*A_2\\
+	p_2&=\frac{d_1^2*p_1}{d_{1,2}^2}
+\end{flalign}
+Zusammengesetzt:
+\begin{equation}
+	\frac{l_2}{l_1}=\frac{F_{neu}}{\left( \frac{d_1^2*p_1}{d_{1,2}^2} \right)  *A_2}
+\end{equation}
+\begin{flalign}
+F_{neu}&=\frac{A_2*d_1^2*p_1*l_2}{d_{1,2}^2*l_1}\\
+&=\frac{(\frac{\pi}{4}*(d_2)^2)*d_1^2*p_1*l_2}{d_{1,2}^2*l_1}\\
+&=\frac{(\frac{\pi}{4}*(\SI{0,018}{meter})^2)*(\SI{0,016}{\meter})^2*\SI{1,415E6}{\pascal}*\SI{0,07}{\meter}}{(\SI{0,04}{\meter})^2*\SI{0,35}{\meter}}\\
+&=\underline{\underline{\SI{11,52}{\newton}}}
+\end{flalign}
