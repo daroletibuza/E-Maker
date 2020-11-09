@@ -1,0 +1,25 @@
+\section{Rechnerisch den \ce{CO2}-Gehalt und die Luftwechselzahl bestimmen}
+
+Um die CO2-Konzentration mit bekannter Luftwechselzahl zu bestimmen ergibt sich mit der Hintergrundbelastung an CO2 aus der Umgebungsluft folgender Term:
+
+\begin{flalign}
+	c_{\ce{CO2}} (t) &= c_{\ce{CO2}, \text{außen}} + \frac{N*\dot{V}_{\ce{CO2}}}{10*n*V}*\left[1-e^{-n*t}\right]
+\end{flalign}
+
+\begin{flalign}
+	n &= \frac{N*\dot{V}_{\ce{CO2}}}{10*V*\left[c_{\ce{CO2}}(t\rightarrow \infty)-c_{\ce{CO2},\text{außen}}\right]}
+\end{flalign}
+
+\begin{description}
+	\item [$ \boldmath c_{\ce{CO2}} (t) \ldots$] Innenraum Konzentration an \ce{CO2} in Vol.\% zu einem Zeitpunkt t
+	\item [$\boldmath c_{\ce{CO2},\text{außen}}\ldots$] Außenkonzentration an \ce{CO2} in Vol.\% ($\approx $ 4 Vol.\%)
+	\item [$ \boldmath c_{\ce{CO2}} (t\rightarrow \infty)\ldots$] Grenzkonzentration an \ce{CO2} für $t \rightarrow \infty$
+	\item[$ \boldsymbol N\ldots$] Anzahl der Personen
+	\item[$\boldsymbol n\ldots$] Luftwechselzahl in \si{\per \hour}
+	\item[$\boldsymbol V\ldots$] Raumvolumen in \si{\kmeter}
+	\item[$\boldmath \dot{V}_{\ce{CO2}}\ldots$] spezifische Emissionsrate in \si{\liter \per \hour}
+	\item[$\boldsymbol t\ldots$] Zeit in \si{\hour}
+\end{description}
+
+\subsection*{Herleitung der Gleichung für die \ce{CO2}-Konzentration}
+\textcolor{red}{Einfacher erklären!!}
