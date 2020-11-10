@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.14)  9 NOV 2020 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.14)  10 NOV 2020 10:44
 entering extended mode
 **./00_Corona_CO2.tex
 (00_Corona_CO2.tex
@@ -1544,26 +1544,36 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ]
 
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 65.
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 66.
 
 
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 65.
-
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 65.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 65.
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 66.
 
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 70--71
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 66.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 66.
+
+
+<img/spaltluft.png, id=21, 1832.34563pt x 1236.87094pt>
+File: img/spaltluft.png Graphic file (type png)
+<use img/spaltluft.png>
+Package pdftex.def Info: img/spaltluft.png  used on input line 73.
+(pdftex.def)             Requested size: 192.0548pt x 129.63936pt.
+<img/querluft.png, id=23, 1804.49156pt x 1255.69125pt>
+File: img/querluft.png Graphic file (type png)
+<use img/querluft.png>
+Package pdftex.def Info: img/querluft.png  used on input line 76.
+(pdftex.def)             Requested size: 192.0548pt x 133.64296pt.
+[3]
+Underfull \hbox (badness 1748) in paragraph at lines 84--85
 \T1/lmr/m/n/12 der ver-ar-bei-te-te Kalk-mör-tel (be-ste-hend aus Sand, Lösch-k
 alk und Kies) zu
  []
 
-[3]) [4]
+) [4 <./img/spaltluft.png> <./img/querluft.png>]
 \openout2 = `04_rechung.aux'.
 
  (04_rechung.tex
@@ -1577,20 +1587,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 1.
 
 
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 14.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 14.
-
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 15.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 15.
-
-
-
 LaTeX Font Warning: Command \boldmath invalid in math mode on input line 16.
 
 
@@ -1598,16 +1594,30 @@ LaTeX Font Warning: Command \mathversion invalid in math mode on input line 16.
 
 
 
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 20.
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 17.
 
 
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 20.
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 17.
+
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 18.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 18.
+
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 22.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 22.
 
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 26.
 ) [5
 
 
@@ -1709,18 +1719,18 @@ AED: lastpage setting LastPage
 (00_Corona_CO2.aux (01_titel.aux) (03_theorie.aux) (04_rechung.aux)
 (05_beispiele.aux) (07_aufgaben.aux) (08_literatur.aux) (09_anhang.aux)) ) 
 Here is how much of TeX's memory you used:
- 39731 strings out of 480257
- 936985 string characters out of 2891255
+ 39755 strings out of 480257
+ 937379 string characters out of 2891255
  1489022 words of memory out of 3000000
- 55447 multiletter control sequences out of 15000+200000
+ 55466 multiletter control sequences out of 15000+200000
  695186 words of font info for 140 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,21n,105p,10610b,1236s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTe
-X warning (dest): name{section*.16} has been referenced but does not exist, rep
+X warning (dest): name{section*.17} has been referenced but does not exist, rep
 laced by a fixed one
 
-pdfTeX warning (dest): name{section*.15} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
 , replaced by a fixed one
 
 pdfTeX warning (dest): name{section.4} has been referenced but does not exist, 
@@ -1757,9 +1767,9 @@ ype1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb
 ><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/Mi
 KTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on 00_Corona_CO2.pdf (10 pages, 497824 bytes).
+Output written on 00_Corona_CO2.pdf (10 pages, 851765 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 161 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
- 82 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 

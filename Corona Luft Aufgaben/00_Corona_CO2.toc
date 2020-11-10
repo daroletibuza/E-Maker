@@ -5,6 +5,6 @@
 \contentsline {section}{\numberline {2}Rechnerisch den \ce {CO2}-Gehalt und die Luftwechselzahl bestimmen}{5}{section.2}%
 \contentsline {section}{\numberline {3}Beispielrechnungen}{6}{section.3}%
 \contentsline {section}{\numberline {4}Aufgaben zur \ce {CO2}-Konzentration in Räumen}{7}{section.4}%
-\contentsline {section}{Literaturverzeichnis}{8}{section*.15}%
-\contentsline {section}{Anhang}{9}{section*.16}%
+\contentsline {section}{Literaturverzeichnis}{8}{section*.16}%
+\contentsline {section}{Anhang}{9}{section*.17}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

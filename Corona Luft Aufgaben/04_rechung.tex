@@ -3,10 +3,12 @@
 Um die CO2-Konzentration mit bekannter Luftwechselzahl zu bestimmen ergibt sich mit der Hintergrundbelastung an CO2 aus der Umgebungsluft folgender Term:
 
 \begin{flalign}
+	\label{gl:co2}
 	c_{\ce{CO2}} (t) &= c_{\ce{CO2}, \text{außen}} + \frac{N*\dot{V}_{\ce{CO2}}}{10*n*V}*\left[1-e^{-n*t}\right]
 \end{flalign}
 
 \begin{flalign}
+	\label{gl:luftwechsel}
 	n &= \frac{N*\dot{V}_{\ce{CO2}}}{10*V*\left[c_{\ce{CO2}}(t\rightarrow \infty)-c_{\ce{CO2},\text{außen}}\right]}
 \end{flalign}
 
@@ -23,3 +25,12 @@ Um die CO2-Konzentration mit bekannter Luftwechselzahl zu bestimmen ergibt sich 
 
 \subsection*{Herleitung der Gleichung für die \ce{CO2}-Konzentration}
 \textcolor{red}{Einfacher erklären!!}
+
+\begin{flalign}
+	\tag{siehe Gl. \ref{gl:co2}}
+	c_{\ce{CO2}, \text{innen}} (t) &= \frac{N*\dot{V}_{\ce{CO2}}}{10*n*V}*\left(1-e^{-n*t}\right) \\
+	&= \frac{1}{k_2}*\frac{N*\dot{V}_{\ce{CO2}}}{10*V}*\left(1-e^{-k_2*t}\right)\\
+	&= \frac{\frac{\dot{V}_{\ce{CO2}}}{V}}{k_2}*\frac{N}{10}*\left(1-e^{-k_2*t}\right)\\
+	&= \frac{k_1}{k_2}*c_{A,0}*\left(1-e^{-k_2*t}\right)\\
+	c_b&= \frac{k_1}{k_2}*c_{A,0}*\left(1-e^{-k_2*t}\right)
+\end{flalign}
