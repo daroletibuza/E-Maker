@@ -2,6 +2,152 @@
 Wie lassen sich diese Kenntnisse nun nutzen, um den \ce{CO2}-Gehalt zu bestimmen?
 
 \subsection*{Beispiel 1:}
-\textbf{Berechnung des \ce{CO2}-Gehaltes für eine bestimmte Personenzahl zu einem bestimmten Zeitpunkt t}
+\textbf{Berechnung des \ce{CO2}-Gehaltes für eine bestimmte Personenzahl zu einem bestimmten Zeitpunkt t}\\
 
-\textcolor{red}{mit Bildern arbeiten und Beispiele, normal, iteratives rechnen, minutenweises rechnen}
+\textit{10 Studenten sind in einem Seminarraum $\left(V = \SI{150}{\kmeter}\right)$ mit gekippten Fenstern $\left(n = \SI{0,3}{\per \hour}\right)$ und es soll der \ce{CO2}-Gehalt nach \SI{1,5}{\hour} bestimmt werden. Da alle Personen sitzende Tätigkeiten ausführen kann von einer spezifischen Emissionsrate von \SI{17}{\liter\per\hour} an \ce{CO2} ausgegangen werden.}\\
+
+\begin{minipage}[t]{0.45\textwidth}
+	\textbf{Gegeben:}
+	\begin{itemize}
+		\item Personenzahl $N = 10$
+		\item Luftwechselzahl $n = \SI{0,3}{\per \hour}$
+		\item Raumvolumen $n = \SI{150}{\kmeter}$
+		\item Zeit $t = \SI{1,5}{\hour}$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+	\textbf{}
+	\begin{itemize}
+		\item spezifische Emissionsrate $\dot{V}_{\ce{CO2}} = \SI{17}{\liter \per \hour} = \SI{17e-3}{\kmeter \per \hour}  $
+		\item Außenkonzentration \ce{CO2} \\
+		$c_{\ce{CO2}, \text{außen}} = \SI{4}{\volpercent}$
+	\end{itemize}
+\end{minipage}
+\FloatBarrier
+
+\vspace*{5mm}
+
+\begin{minipage}[t]{0.7\textwidth}
+	\textbf{Gesucht:}
+	\begin{itemize}
+		\item \ce{CO2}-Gehalt zum Zeitpunkt t
+	\end{itemize}
+\end{minipage}
+
+\vspace*{5mm}
+
+\textbf{Skizze:}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.5\textwidth]{img/beispiel 1}
+	\caption{Skizze zu Beispiel 1}
+	\label{fig:beispiel1}
+\end{figure}
+\FloatBarrier
+%Ende
+
+\newpage
+
+\textbf{Lösung}:
+
+\begin{flalign}
+		\label{gl:beispiel1}
+		c_{\ce{CO2}} (t) &= c_{\ce{CO2}, \text{außen}} + \frac{N*\dot{V}_{\ce{CO2}}}{10*n*V}*\left[1-e^{-n*t}\right]\\
+		c_{\ce{CO2}} (\SI{1,5}{\hour}) &= \SI{0,04}{\volpercent} + \frac{10*\SI{17}{\liter\per \hour}}{10*\SI{0,3}{\per \hour}*\SI{150}{\kmeter}}*\left[1-e^{-\SI{0,3}{\per \hour}*\SI{1,5}{\hour}}\right]\\
+						&= \SI{0,04}{\volpercent} +  \SI{0,137}{\volpercent}\\
+						&= \underline{\SI{0,177}{\volpercent}}
+\end{flalign}
+\textit{Grenzkonzentration für DIN 1946 Teil II und \textsc{Pettenkofer}-Zahl überschritten!}
+
+\subsection*{Beispiel 2:}
+\textbf{Iterative Berechnung der Zeit t bis Grenzkonzentration erreicht ist}\\
+
+\textit{Sieben Personen treffen sich zum studentischen Gelage in einer WG am Campus mit \SI{145}{\kmeter} Raumvolumen. Da ein halbgeöffnetes Fenster existiert, wird eine Luftwechselzahl von $n = \SI{0,26}{\per \hour}$ und durch den Milchgenuss eine Emissionsrate von \SI{25}{\liter \per \hour} gemessen. Die Außenkonzentration bleibt bei \SI{0,04}{\volpercent}. Es ist die Zeit zu bestimmen nach welcher eine Grenzkonzentration von \SI{0,15}{\volpercent} erreicht ist.}
+\vspace*{5mm}
+
+\begin{minipage}[t]{0.45\textwidth}
+	\textbf{Gegeben:}
+	\begin{itemize}
+		\item Personenzahl $N = 7$
+		\item Luftwechselzahl $n = \SI{1,05}{\per \hour}$
+		\item Raumvolumen $n = \SI{145}{\kmeter}$
+		\item Grenzkonzentration $c_{\ce{CO2}} = \SI{0,15}{\volpercent}$
+	\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+	\textbf{}
+	\begin{itemize}
+		\item spezifische Emissionsrate $\dot{V}_{\ce{CO2}} = \SI{25}{\liter \per \hour} $
+		\item Außenkonzentration \ce{CO2} \\
+		$c_{\ce{CO2}, \text{außen}} = \SI{4}{\volpercent}$
+	\end{itemize}
+\end{minipage}
+\FloatBarrier
+
+\vspace*{5mm}
+
+\begin{minipage}[t]{1.0\textwidth}
+	\textbf{Gesucht:}
+	\begin{itemize}
+		\item Zeitpunkt $t$ bis Grenzkonzentration erreicht ist
+	\end{itemize}
+\end{minipage}
+
+\newpage
+
+\textbf{Was ist iteratives Rechnen ?}\\
+Iterationsverfahren beschreiben eine schrittweise Annäherung an eine Lösung durch wiederholte Ausführung einer Rechenvorschrift. Die Anzahl der Wiederholungen ist dabei abhängig von einer Abbruchbedingung, wie zum Beispiel die Genauigkeit der Nachkommastellen des Ergebnisses.\\
+Sinnvoll ist diese Art Berechnung wenn nicht genügend Informationen über Parameter vorliegen oder sich ein umstellen der Gleichung nach einem bestimmten Parameter, als zu komplex erweist. \\
+In der verfahrenstechnischen Praxis findet sich das iterative Rechnen im Excel-Add-In \textit{Solver} wieder. Auch dieses Add-In rechnet mit der iterativen Methodik.
+
+\vspace{5mm}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1.0\textwidth]{img/iterativ}
+	\caption{Übersicht zum iterativen Rechnen der \ce{CO2}-Konzentration}
+\end{figure}
+\FloatBarrier
+%Ende
+
+\newpage
+
+\textbf{Lösung:}
+\begin{enumerate}
+	\item \textbf{Durchlauf} für $t = \SI{0}{\hour}$:\\
+	\begin{flalign}
+		c_{\ce{CO2}} (\SI{0}{\hour}) &= \SI{0,04}{\volpercent} + \frac{10*\SI{25}{\liter\per \hour}}{10*\SI{1,05}{\per \hour}*\SI{145}{\kmeter}}*\left[1-e^{-\SI{1,05}{\per \hour}*\SI{0}{\hour}}\right]\\
+		&= \SI{0,040}{\volpercent}\\
+		\Delta c_{\ce{CO2}} &= \abs{c_{\ce{CO2}}-c_{\text{Grenz}}}\\
+													&=\abs{\SI{0,040}{\volpercent}-\SI{0,150}{\volpercent}}\\
+													&= \SI{0,110}{\volpercent} > 0 \rightarrow \text{Wiederholung mit } t+1
+	\end{flalign}
+\item \textbf{Durchlauf} für $t = \SI{1}{\hour}$:\\
+\begin{flalign}
+	c_{\ce{CO2}} (\SI{1}{\hour}) &= \SI{0,04}{\volpercent} + \frac{10*\SI{25}{\liter\per \hour}}{10*\SI{1,05}{\per \hour}*\SI{145}{\kmeter}}*\left[1-e^{-\SI{1,05}{\per \hour}*\SI{1}{\hour}}\right]\\
+	&= \SI{0,115}{\volpercent}\\
+	\Delta c_{\ce{CO2}} &= \abs{\SI{0,115}{\volpercent}-\SI{0,150}{\volpercent}}\\
+	&= \SI{0,035}{\volpercent} > 0 \rightarrow \text{Wiederholung mit } t+1
+\end{flalign}
+\item \textbf{Durchlauf} für $t = \SI{2}{\hour}$:\\
+\begin{flalign}
+	c_{\ce{CO2}} (\SI{2}{\hour}) &= \SI{0,04}{\volpercent} + \frac{10*\SI{25}{\liter\per \hour}}{10*\SI{1,05}{\per \hour}*\SI{145}{\kmeter}}*\left[1-e^{-\SI{1,05}{\per \hour}*\SI{2}{\hour}}\right]\\
+	&= \SI{0,141}{\volpercent}\\
+	\Delta c_{\ce{CO2}} &= \abs{\SI{0,141}{\volpercent}-\SI{0,150}{\volpercent}}\\
+	&= \SI{0,009}{\volpercent} > 0 \rightarrow \text{Wiederholung mit } t+1
+\end{flalign}
+\item \textbf{Durchlauf} für $t = \SI{3}{\hour}$:\\
+\begin{flalign}
+	c_{\ce{CO2}} (\SI{3}{\hour}) &= \SI{0,04}{\volpercent} + \frac{10*\SI{25}{\liter\per \hour}}{10*\SI{1,05}{\per \hour}*\SI{145}{\kmeter}}*\left[1-e^{-\SI{1,05}{\per \hour}*\SI{3}{\hour}}\right]\\
+	&= \SI{0,150}{\volpercent}\\
+	\Delta c_{\ce{CO2}} &= \abs{\SI{0,150}{\volpercent}-\SI{0,150}{\volpercent}}\\
+	&= \SI{0,000}{\volpercent} = 0 \rightarrow \text{Zeit der Grenzkonzentration}
+\end{flalign}
+\end{enumerate}
+
+\newpage
+
+\subsection*{Beispiel 3:}
+\textbf{Einfluss der Personenzahl auf den Verlauf der \ce{CO2}-Konzentration}\\
+
+\textcolor{red}{grafische Darstellung der \ce{CO2}-Konzentration mit verschiedenen Personenzahlen}
