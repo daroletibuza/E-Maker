@@ -2,105 +2,105 @@
 \contentsline {section}{\numberline {1}Sicherheitsmaßnahmen}{4}{section.1}%
 \contentsline {section}{\numberline {2}Laborgeräte und Werkzeuge}{5}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Allgemeiner Apparaturaufbau}{5}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Klammern}{7}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Muffen}{7}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Stative}{7}{subsubsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.4}Korkringe}{7}{subsubsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.2}Volumengefäß}{7}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Bechergläser}{7}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Rundkolben}{7}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Erlenmeyerkolben}{7}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Maßkolben}{7}{subsubsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.2.5}Bürette}{7}{subsubsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.3}Pipetten}{7}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Peleusball}{7}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Vollpipetten}{7}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Eppendorfpipetten}{7}{subsubsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.4}Hubkolbenpipette}{7}{subsubsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.4}Trichter}{7}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Flüssigkeitstrichter}{7}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Feststofftrichter}{7}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Tropftrichter}{7}{subsubsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.4}Scheidetrichter}{7}{subsubsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.5}Schläuche}{7}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Vakuumschläuche}{7}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Wasserschläuche}{7}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Oliven}{7}{subsubsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.6}Filter}{7}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}Filterpapier}{7}{subsubsection.2.6.1}%
-\contentsline {subsubsection}{\numberline {2.6.2}Fritte}{7}{subsubsection.2.6.2}%
-\contentsline {subsubsection}{\numberline {2.6.3}Filternutsche}{7}{subsubsection.2.6.3}%
-\contentsline {subsection}{\numberline {2.7}Waschflaschen}{7}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}Rührer}{7}{subsection.2.8}%
-\contentsline {subsubsection}{\numberline {2.8.1}Magnetrührwerk}{7}{subsubsection.2.8.1}%
-\contentsline {subsubsection}{\numberline {2.8.2}Rührertypen}{7}{subsubsection.2.8.2}%
-\contentsline {subsubsection}{\numberline {2.8.3}Rührermotor}{7}{subsubsection.2.8.3}%
-\contentsline {subsection}{\numberline {2.9}Rückflusskühler}{7}{subsection.2.9}%
-\contentsline {subsubsection}{\numberline {2.9.1}Dimrothkühler}{7}{subsubsection.2.9.1}%
-\contentsline {subsubsection}{\numberline {2.9.2}Liebigkühler}{7}{subsubsection.2.9.2}%
-\contentsline {subsection}{\numberline {2.10}Heizelemente}{7}{subsection.2.10}%
-\contentsline {subsubsection}{\numberline {2.10.1}Wärmebad}{7}{subsubsection.2.10.1}%
-\contentsline {subsubsection}{\numberline {2.10.2}Brenner}{7}{subsubsection.2.10.2}%
-\contentsline {subsubsection}{\numberline {2.10.3}Heizpilz oder Heiznetz}{7}{subsubsection.2.10.3}%
-\contentsline {subsubsection}{\numberline {2.10.4}Heizplatte}{7}{subsubsection.2.10.4}%
-\contentsline {subsection}{\numberline {2.11}Pyknometer}{7}{subsection.2.11}%
-\contentsline {subsubsection}{\numberline {2.11.1}Apparaturen zum Trocknen}{7}{subsubsection.2.11.1}%
-\contentsline {subsubsection}{\numberline {2.11.2}Exsikkator}{7}{subsubsection.2.11.2}%
-\contentsline {subsubsection}{\numberline {2.11.3}Trockenschrank}{7}{subsubsection.2.11.3}%
-\contentsline {subsubsection}{\numberline {2.11.4}Muffelofen}{7}{subsubsection.2.11.4}%
-\contentsline {subsection}{\numberline {2.12}Pumpen}{7}{subsection.2.12}%
-\contentsline {subsubsection}{\numberline {2.12.1}Vakuumpumpe (Wasserstrahlpumpe)}{7}{subsubsection.2.12.1}%
-\contentsline {subsubsection}{\numberline {2.12.2}Hubkolbenpumpe}{7}{subsubsection.2.12.2}%
-\contentsline {subsubsection}{\numberline {2.12.3}Kreiselpumpe}{7}{subsubsection.2.12.3}%
-\contentsline {subsection}{\numberline {2.13}Zusätzlich:}{7}{subsection.2.13}%
-\contentsline {subsubsection}{\numberline {2.13.1}Beschriftung von Proben}{7}{subsubsection.2.13.1}%
-\contentsline {subsection}{\numberline {2.14}Füllkörper}{7}{subsection.2.14}%
-\contentsline {subsubsection}{\numberline {2.14.1}Schliffe und Schlifffett}{7}{subsubsection.2.14.1}%
-\contentsline {subsubsection}{\numberline {2.14.2}Ultraschallbad}{7}{subsubsection.2.14.2}%
-\contentsline {subsubsection}{\numberline {2.14.3}Eismaschine}{7}{subsubsection.2.14.3}%
-\contentsline {section}{\numberline {3}Typische Versuchsstände und Aufgaben}{8}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Typische Versuchsstände}{8}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Titrationsapparatur}{8}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Typische Verfahren und Aufgabenstellungen}{8}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Dichtebestimmung}{8}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Trocknung von Feststoffen}{8}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Destillation}{8}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}Umkristallisieren}{8}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Extraktion}{8}{subsubsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.6}Absaugen alias Vakuumfiltrieren}{8}{subsubsection.3.2.6}%
-\contentsline {subsubsection}{\numberline {3.2.7}Schmelzpunkt}{8}{subsubsection.3.2.7}%
-\contentsline {subsubsection}{\numberline {3.2.8}Siedepunkt}{8}{subsubsection.3.2.8}%
-\contentsline {subsubsection}{\numberline {3.2.9}Refraktometrie}{8}{subsubsection.3.2.9}%
-\contentsline {subsubsection}{\numberline {3.2.10}Dünnschichtchromatographie}{8}{subsubsection.3.2.10}%
-\contentsline {section}{\numberline {4}Fehlerquellen für die Versuchsauswertung}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Fehlerklassen und Fehlertoleranzen}{9}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}analoge Messung}{9}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}digitale Messung}{9}{subsubsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.2}Massenbestimmung}{9}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Volumenmessung}{9}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Druckmessung}{9}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Temperaturmessung}{9}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Messung mittels Elektrode}{9}{subsection.4.6}%
-\contentsline {subsubsection}{\numberline {4.6.1}pH-Wert}{9}{subsubsection.4.6.1}%
-\contentsline {subsubsection}{\numberline {4.6.2}elektrische Leitfähigkeit}{9}{subsubsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.7}Volumenstrommessung}{9}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Geometrische Messungen}{9}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}zufällige Fehler und Messfehler}{9}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10}Anzahl der Messreihen}{9}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}Schwanken der Messwerte}{9}{subsection.4.11}%
-\contentsline {section}{\numberline {5}Grundbegriffe im Labor}{10}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Absaugen}{10}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Absorbieren}{10}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Adsorbieren}{10}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}An- und Abfahren einer Anlage}{10}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Einengen}{10}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Extrahieren}{10}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}Klassieren}{10}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Neutralisieren}{10}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}Sortieren}{10}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}Überkotzen}{10}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}Umkristallisieren}{10}{subsection.5.11}%
-\contentsline {subsection}{\numberline {5.12}Waschen (eines Salzes)}{10}{subsection.5.12}%
-\contentsline {section}{Literaturverzeichnis}{11}{subsection.5.12}%
-\contentsline {section}{Anhang}{11}{section*.5}%
+\contentsline {subsubsection}{\numberline {2.1.1}Schliffklemmen alias \textsc {Keck}-Clips}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Muffen}{6}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Stative}{8}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Korkringe}{8}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Volumengefäß}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Bechergläser}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Rundkolben}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Erlenmeyerkolben}{8}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Maßkolben}{8}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Bürette}{8}{subsubsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.3}Pipetten}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Peleusball}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Vollpipetten}{8}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Eppendorfpipetten}{8}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Hubkolbenpipette}{8}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}Trichter}{8}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Flüssigkeitstrichter}{8}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Feststofftrichter}{8}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Tropftrichter}{8}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Scheidetrichter}{8}{subsubsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.5}Schläuche}{8}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Vakuumschläuche}{8}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Wasserschläuche}{8}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Oliven}{8}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Filter}{8}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Filterpapier}{8}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Fritte}{8}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Filternutsche}{8}{subsubsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.7}Waschflaschen}{8}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Rührer}{8}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Magnetrührwerk}{8}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Rührertypen}{8}{subsubsection.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.8.3}Rührermotor}{8}{subsubsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.9}Rückflusskühler}{8}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}Dimrothkühler}{8}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Liebigkühler}{8}{subsubsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.10}Heizelemente}{8}{subsection.2.10}%
+\contentsline {subsubsection}{\numberline {2.10.1}Wärmebad}{8}{subsubsection.2.10.1}%
+\contentsline {subsubsection}{\numberline {2.10.2}Brenner}{8}{subsubsection.2.10.2}%
+\contentsline {subsubsection}{\numberline {2.10.3}Heizpilz oder Heiznetz}{8}{subsubsection.2.10.3}%
+\contentsline {subsubsection}{\numberline {2.10.4}Heizplatte}{8}{subsubsection.2.10.4}%
+\contentsline {subsection}{\numberline {2.11}Pyknometer}{8}{subsection.2.11}%
+\contentsline {subsubsection}{\numberline {2.11.1}Apparaturen zum Trocknen}{8}{subsubsection.2.11.1}%
+\contentsline {subsubsection}{\numberline {2.11.2}Exsikkator}{8}{subsubsection.2.11.2}%
+\contentsline {subsubsection}{\numberline {2.11.3}Trockenschrank}{8}{subsubsection.2.11.3}%
+\contentsline {subsubsection}{\numberline {2.11.4}Muffelofen}{8}{subsubsection.2.11.4}%
+\contentsline {subsection}{\numberline {2.12}Pumpen}{8}{subsection.2.12}%
+\contentsline {subsubsection}{\numberline {2.12.1}Vakuumpumpe (Wasserstrahlpumpe)}{8}{subsubsection.2.12.1}%
+\contentsline {subsubsection}{\numberline {2.12.2}Hubkolbenpumpe}{8}{subsubsection.2.12.2}%
+\contentsline {subsubsection}{\numberline {2.12.3}Kreiselpumpe}{8}{subsubsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.13}Zusätzlich:}{8}{subsection.2.13}%
+\contentsline {subsubsection}{\numberline {2.13.1}Beschriftung von Proben}{8}{subsubsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.14}Füllkörper}{8}{subsection.2.14}%
+\contentsline {subsubsection}{\numberline {2.14.1}Schliffe und Schlifffett}{8}{subsubsection.2.14.1}%
+\contentsline {subsubsection}{\numberline {2.14.2}Ultraschallbad}{8}{subsubsection.2.14.2}%
+\contentsline {subsubsection}{\numberline {2.14.3}Eismaschine}{8}{subsubsection.2.14.3}%
+\contentsline {section}{\numberline {3}Typische Versuchsstände und Aufgaben}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Typische Versuchsstände}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Titrationsapparatur}{9}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Typische Verfahren und Aufgabenstellungen}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Dichtebestimmung}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Trocknung von Feststoffen}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Destillation}{9}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Umkristallisieren}{9}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Extraktion}{9}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Absaugen alias Vakuumfiltrieren}{9}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.7}Schmelzpunkt}{9}{subsubsection.3.2.7}%
+\contentsline {subsubsection}{\numberline {3.2.8}Siedepunkt}{9}{subsubsection.3.2.8}%
+\contentsline {subsubsection}{\numberline {3.2.9}Refraktometrie}{9}{subsubsection.3.2.9}%
+\contentsline {subsubsection}{\numberline {3.2.10}Dünnschichtchromatographie}{9}{subsubsection.3.2.10}%
+\contentsline {section}{\numberline {4}Fehlerquellen für die Versuchsauswertung}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Fehlerklassen und Fehlertoleranzen}{10}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}analoge Messung}{10}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}digitale Messung}{10}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Massenbestimmung}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Volumenmessung}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Druckmessung}{10}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Temperaturmessung}{10}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Messung mittels Elektrode}{10}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}pH-Wert}{10}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}elektrische Leitfähigkeit}{10}{subsubsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.7}Volumenstrommessung}{10}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Geometrische Messungen}{10}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}zufällige Fehler und Messfehler}{10}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Anzahl der Messreihen}{10}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Schwanken der Messwerte}{10}{subsection.4.11}%
+\contentsline {section}{\numberline {5}Grundbegriffe im Labor}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Absaugen}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Absorbieren}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Adsorbieren}{11}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}An- und Abfahren einer Anlage}{11}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Einengen}{11}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Extrahieren}{11}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Klassieren}{11}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Neutralisieren}{11}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Sortieren}{11}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Überkotzen}{11}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Umkristallisieren}{11}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}Waschen (eines Salzes)}{11}{subsection.5.12}%
+\contentsline {section}{Literaturverzeichnis}{12}{subsection.5.12}%
+\contentsline {section}{Anhang}{12}{section*.7}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
