@@ -1,30 +1,12 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: 00_Labor_Handout.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: 01_titel.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
-A level-1 auxiliary file: 08_literatur.aux
-Reallocating 'name_of_file' (item size: 1) to 10 items.
-I couldn't open database file Literatur.bib
----line 3 of file 08_literatur.aux
- : \bibdata{Literatur
- :                   }
-I'm skipping whatever remains of this command
-Reallocating 'name_of_file' (item size: 1) to 9 items.
-I couldn't open style file unsrtdin.bst
----line 4 of file 08_literatur.aux
- : \bibstyle{unsrtdin
- :                   }
-I'm skipping whatever remains of this command
-Reallocating 'name_of_file' (item size: 1) to 14 items.
-A level-1 auxiliary file: 09_anhang.aux
 I found no \citation commands---while reading file 00_Labor_Handout.aux
-I found no database files---while reading file 00_Labor_Handout.aux
-I found no style file---while reading file 00_Labor_Handout.aux
+I found no \bibdata command---while reading file 00_Labor_Handout.aux
+I found no \bibstyle command---while reading file 00_Labor_Handout.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            88 strings with 564 characters,
+            83 strings with 506 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -63,4 +45,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 5 error messages)
+(There were 3 error messages)
