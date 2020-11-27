@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.24)  26 NOV 2020 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.24)  27 NOV 2020 15:57
 entering extended mode
 **./00_Labor_Handout.tex
 (00_Labor_Handout.tex
@@ -1743,31 +1743,60 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 216--217
  []
 
 [12 <./img/bÃ¼rette_beide.jpg>]
-<img/peleusball.png, id=75, 803.0pt x 1749.53625pt>
+<img/peleusball.png, id=75, 1749.53625pt x 803.0pt>
 File: img/peleusball.png Graphic file (type png)
 <use img/peleusball.png>
 Package pdftex.def Info: img/peleusball.png  used on input line 226.
-(pdftex.def)             Requested size: 85.35696pt x 185.96251pt.
+(pdftex.def)             Requested size: 213.39568pt x 97.93645pt.
 
 Underfull \hbox (badness 1521) in paragraph at lines 233--234
 \T1/lmr/m/n/14.4 für Voll-pi-pet-ten sind [][], [][], [][], [][] und [][].
  []
 
-) [13 <./img/peleusball.png>] [14]
-Overfull \vbox (361.26917pt too high) has occurred while \output is active []
+<img/vollpipette.png, id=76, 4193.16562pt x 374.90062pt>
+File: img/vollpipette.png Graphic file (type png)
+<use img/vollpipette.png>
+Package pdftex.def Info: img/vollpipette.png  used on input line 237.
+(pdftex.def)             Requested size: 298.75264pt x 26.70908pt.
+[13 <./img/peleusball.png> <./img/vollpipette.png>]
+Overfull \hbox (12.60674pt too wide) in paragraph at lines 246--248
+\T1/lmr/m/n/14.4 Eine ver-brei-te-te Be-zeich-nung für die-se Pi-pet-ten ist []
+-Pipette,
+ []
+
+<img/eppendorf.jpg, id=83, 1611.49422pt x 406.99422pt>
+File: img/eppendorf.jpg Graphic file (type jpg)
+<use img/eppendorf.jpg>
+Package pdftex.def Info: img/eppendorf.jpg  used on input line 253.
+(pdftex.def)             Requested size: 298.75264pt x 75.448pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 282--283
+[][] 
+ []
+
+<img/volumen_eppendorf.png, id=84, 431.36156pt x 271.0125pt>
+File: img/volumen_eppendorf.png Graphic file (type png)
+<use img/volumen_eppendorf.png>
+Package pdftex.def Info: img/volumen_eppendorf.png  used on input line 286.
+(pdftex.def)             Requested size: 213.39568pt x 134.06682pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./img/eppendorf.jpg>]) [15 <./img/volumen_eppendorf.png>]
+Overfull \vbox (333.96918pt too high) has occurred while \output is active []
 
 
-[15]
+[16]
 \openout2 = `05_versuchstande.aux'.
 
- (05_versuchstande.tex) [16
+ (05_versuchstande.tex) [17
 
 
 
 ]
 \openout2 = `07_fehlerquellen.aux'.
 
- (07_fehlerquellen.tex) [17
+ (07_fehlerquellen.tex) [18
 
 
 
@@ -1775,7 +1804,7 @@ Overfull \vbox (361.26917pt too high) has occurred while \output is active []
 \openout2 = `10_begriffe.aux'.
 
  (10_begriffe.tex)
-[18
+[19
 
 
 
@@ -1785,7 +1814,7 @@ Overfull \vbox (361.26917pt too high) has occurred while \output is active []
  (08_literatur.tex (00_Labor_Handout.bbl))
 \openout2 = `09_anhang.aux'.
 
- (09_anhang.tex) [19
+ (09_anhang.tex) [20
 
 
 
@@ -1803,14 +1832,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40287 strings out of 479837
- 946102 string characters out of 2880961
+ 40319 strings out of 479837
+ 946716 string characters out of 2880961
  1499088 words of memory out of 3000000
- 56309 multiletter control sequences out of 15000+200000
- 626564 words of font info for 91 fonts, out of 3000000 for 9000
+ 56337 multiletter control sequences out of 15000+200000
+ 633281 words of font info for 95 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  106i,20n,111p,10613b,1005s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.20} has been referenced but does not exi
+pdfTeX warning (dest): name{section*.25} has been referenced but does not exi
 st, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.5.13} has been referenced but does not e
@@ -2071,12 +2100,6 @@ ot exist, replaced by a fixed one
 pdfTeX warning (dest): name{subsection.2.4} has been referenced but does not ex
 ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.2.3.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.3.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsection.2.3} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -2122,16 +2145,19 @@ replaced by a fixed one
 pdfTeX warning (dest): name{section.1} has been referenced but does not exist, 
 replaced by a fixed one
 
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/
-fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1
-.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program File
-s/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1
-/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
-C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on 00_Labor_Handout.pdf (20 pages, 2197014 bytes).
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiK
+TeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/l
+m/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
+iles/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/
+public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb
+><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
+c/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/lm/lmsy10.pfb>
+Output written on 00_Labor_Handout.pdf (21 pages, 2883894 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
- 938 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 577 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
+ 937 words of extra memory for PDF output out of 10000 (max. 10000000)
 
