@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.10)  30 NOV 2020 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.10)  30 NOV 2020 14:55
 entering extended mode
 **./00_Labor_Handout.tex
 (00_Labor_Handout.tex
@@ -1966,25 +1966,85 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 282--283
 File: img/volumen_eppendorf.png Graphic file (type png)
 <use img/volumen_eppendorf.png>
 Package pdftex.def Info: img/volumen_eppendorf.png  used on input line 286.
-(pdftex.def)             Requested size: 213.39568pt x 134.06682pt.
+(pdftex.def)             Requested size: 192.0548pt x 120.66014pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14 <./img/eppendorf.jpg>]) [15 <./img/volumen_eppendorf.png>]
-Overfull \vbox (333.96918pt too high) has occurred while \output is active []
+[14 <./img/eppendorf.jpg>]
+<img/trichter.jpg, id=90, 149.55875pt x 280.04625pt>
+File: img/trichter.jpg Graphic file (type jpg)
+<use img/trichter.jpg>
+Package pdftex.def Info: img/trichter.jpg  used on input line 298.
+(pdftex.def)             Requested size: 149.55838pt x 280.04555pt.
+<img/trichter2.jpg, id=91, 226.8475pt x 187.70125pt>
+File: img/trichter2.jpg Graphic file (type jpg)
+<use img/trichter2.jpg>
+Package pdftex.def Info: img/trichter2.jpg  used on input line 309.
+(pdftex.def)             Requested size: 85.35696pt x 70.6255pt.
+<img/tropftrichter.jpg, id=92, 309.155pt x 709.65125pt>
+File: img/tropftrichter.jpg Graphic file (type jpg)
+<use img/tropftrichter.jpg>
+Package pdftex.def Info: img/tropftrichter.jpg  used on input line 319.
+(pdftex.def)             Requested size: 64.01608pt x 146.94127pt.
+
+Underfull \hbox (badness 1320) in paragraph at lines 316--323
+\T1/lmr/m/n/14.4 Re-ak-ti-ons-mi-schung die-nen. Sie be-sit-zen meist einen Nor
+m-schliff
+ []
 
 
-[16]
+Underfull \hbox (badness 1648) in paragraph at lines 316--323
+\T1/lmr/m/n/14.4 Mit Druck-aus-gleich am Tropf-trich-ter wird ein Ver-damp-fen 
+der
+ []
+
+[15 <./img/volumen_eppendorf.png> <./img/trichter.jpg> <./img/trichter2.jpg>]
+Underfull \hbox (badness 2818) in paragraph at lines 326--328
+\T1/lmr/m/n/14.4 Scheidetrichter wer-den des-halb ger-ne auch für Flüssig-Flüss
+ig-
+ []
+
+<img/scheidetrichter.jpg, id=97, 213.79875pt x 532.99126pt>
+File: img/scheidetrichter.jpg Graphic file (type jpg)
+<use img/scheidetrichter.jpg>
+Package pdftex.def Info: img/scheidetrichter.jpg  used on input line 331.
+(pdftex.def)             Requested size: 64.01608pt x 159.58955pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./img/tropftrichter.jpg>]
+Underfull \hbox (badness 3229) in paragraph at lines 339--341
+[][] \T1/lmr/m/n/14.4 so-wie uni-ver-sal, che-misch be-stän-dig sind. Sie be-si
+t-zen
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 343--344
+\T1/lmr/m/n/14.4 das die-se ge-gen-über syn-the-tisch her-ge-stell-ten Kau-tsch
+uk hö-her
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 343--344
+\T1/lmr/m/n/14.4 Ver-schleiÿ-fes-tig-keit, Al-ters und Wit-te-rungs-be-stän-dig
+-keit be-sitzt,
+ []
+
+) [17 <./img/scheidetrichter.jpg>] [18]
+Overfull \vbox (140.06927pt too high) has occurred while \output is active []
+
+
+[19]
 \openout2 = `05_versuchstande.aux'.
 
- (05_versuchstande.tex) [17
+ (05_versuchstande.tex) [20
 
 
 
 ]
 \openout2 = `07_fehlerquellen.aux'.
 
- (07_fehlerquellen.tex) [18
+ (07_fehlerquellen.tex) [21
 
 
 
@@ -1992,7 +2052,7 @@ Overfull \vbox (333.96918pt too high) has occurred while \output is active []
 \openout2 = `10_begriffe.aux'.
 
  (10_begriffe.tex)
-[19
+[22
 
 
 
@@ -2002,7 +2062,7 @@ Overfull \vbox (333.96918pt too high) has occurred while \output is active []
  (08_literatur.tex (00_Labor_Handout.bbl))
 \openout2 = `09_anhang.aux'.
 
- (09_anhang.tex) [20
+ (09_anhang.tex) [23
 
 
 
@@ -2020,14 +2080,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40321 strings out of 479765
- 961147 string characters out of 2866190
+ 40363 strings out of 479765
+ 961985 string characters out of 2866190
  1487166 words of memory out of 3000000
- 56387 multiletter control sequences out of 15000+200000
+ 56427 multiletter control sequences out of 15000+200000
  633281 words of font info for 95 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  106i,20n,111p,10613b,1005s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.25} has been referenced but does not exi
+pdfTeX warning (dest): name{section*.31} has been referenced but does not exi
 st, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.5.13} has been referenced but does not e
@@ -2273,12 +2333,6 @@ ot exist, replaced by a fixed one
 pdfTeX warning (dest): name{subsection.2.5} has been referenced but does not ex
 ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.2.4.4} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.4.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsubsection.2.4.2} has been referenced but does n
 ot exist, replaced by a fixed one
 
@@ -2347,9 +2401,9 @@ s/type1/public/lm/lmr12.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/lm/lmri12.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/roman/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 00_Labor_Handout.pdf (21 pages, 2883893 bytes).
+Output written on 00_Labor_Handout.pdf (24 pages, 2963040 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
- 937 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
+ 941 words of extra memory for PDF output out of 10000 (max. 10000000)
 
