@@ -1,0 +1,98 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Sicherheitsmaßnahmen}{4}{section.1}%
+\contentsline {section}{\numberline {2}Laborgeräte und Werkzeuge}{5}{section.2}%
+\contentsline {subsubsection}{\numberline {2.0.1}Schliffklemmen alias \textsc {Keck}-Clips}{6}{subsubsection.2.0.1}%
+\contentsline {subsubsection}{\numberline {2.0.2}Muffen}{7}{subsubsection.2.0.2}%
+\contentsline {subsubsection}{\numberline {2.0.3}(\textsc {Bunsen}-) Stative}{7}{subsubsection.2.0.3}%
+\contentsline {subsubsection}{\numberline {2.0.4}Korkringe}{7}{subsubsection.2.0.4}%
+\contentsline {subsubsection}{\numberline {2.0.5}Material der Glasgeräte}{8}{subsubsection.2.0.5}%
+\contentsline {subsection}{\numberline {2.1}Volumengefäße}{9}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Bechergläser}{9}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Rundkolben}{9}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Standkolben: Erlenmeyerkolben und Stehkolben}{10}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Maßkolben bzw. Messkolben}{11}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Messzylinder}{11}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Bürette}{12}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Pipetten}{13}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Trichter}{14}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Schläuche}{16}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Oliven}{17}{subsubsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.6}Filter}{17}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Waschflaschen}{21}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Rührer}{21}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Magnetrührwerk}{21}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Rührertypen}{21}{subsubsection.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.8.3}Rührermotor}{21}{subsubsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.9}Rückflusskühler}{21}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}Dimrothkühler}{21}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Liebigkühler}{21}{subsubsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.10}Heizelemente}{21}{subsection.2.10}%
+\contentsline {subsubsection}{\numberline {2.10.1}Wärmebad}{21}{subsubsection.2.10.1}%
+\contentsline {subsubsection}{\numberline {2.10.2}Brenner}{21}{subsubsection.2.10.2}%
+\contentsline {subsubsection}{\numberline {2.10.3}Heizpilz oder Heiznetz}{21}{subsubsection.2.10.3}%
+\contentsline {subsubsection}{\numberline {2.10.4}Heizplatte}{21}{subsubsection.2.10.4}%
+\contentsline {subsection}{\numberline {2.11}Pyknometer}{21}{subsection.2.11}%
+\contentsline {subsubsection}{\numberline {2.11.1}Apparaturen zum Trocknen}{21}{subsubsection.2.11.1}%
+\contentsline {subsubsection}{\numberline {2.11.2}Exsikkator}{21}{subsubsection.2.11.2}%
+\contentsline {subsubsection}{\numberline {2.11.3}Trockenschrank}{21}{subsubsection.2.11.3}%
+\contentsline {subsubsection}{\numberline {2.11.4}Muffelofen}{21}{subsubsection.2.11.4}%
+\contentsline {subsection}{\numberline {2.12}Pumpen}{21}{subsection.2.12}%
+\contentsline {subsubsection}{\numberline {2.12.1}Vakuumpumpe (Wasserstrahlpumpe)}{21}{subsubsection.2.12.1}%
+\contentsline {subsubsection}{\numberline {2.12.2}Hubkolbenpumpe}{21}{subsubsection.2.12.2}%
+\contentsline {subsubsection}{\numberline {2.12.3}Kreiselpumpe}{21}{subsubsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.13}Zusätzlich:}{21}{subsection.2.13}%
+\contentsline {subsubsection}{\numberline {2.13.1}Beschriftung von Proben}{21}{subsubsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.14}Füllkörper}{21}{subsection.2.14}%
+\contentsline {subsubsection}{\numberline {2.14.1}Schliffe und Schlifffett}{21}{subsubsection.2.14.1}%
+\contentsline {subsubsection}{\numberline {2.14.2}Ultraschallbad}{21}{subsubsection.2.14.2}%
+\contentsline {subsubsection}{\numberline {2.14.3}Eismaschine}{21}{subsubsection.2.14.3}%
+\contentsline {section}{\numberline {3}Typische Versuchsstände und Aufgaben}{22}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Typische Versuchsstände}{22}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Titrationsapparatur}{22}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Typische Verfahren und Aufgabenstellungen}{22}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Dichtebestimmung}{22}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Trocknung von Feststoffen}{22}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Destillation}{22}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Umkristallisieren}{22}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Extraktion}{22}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Absaugen alias Vakuumfiltrieren}{22}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.7}Schmelzpunkt}{22}{subsubsection.3.2.7}%
+\contentsline {subsubsection}{\numberline {3.2.8}Siedepunkt}{22}{subsubsection.3.2.8}%
+\contentsline {subsubsection}{\numberline {3.2.9}Refraktometrie}{22}{subsubsection.3.2.9}%
+\contentsline {subsubsection}{\numberline {3.2.10}Dünnschichtchromatographie}{22}{subsubsection.3.2.10}%
+\contentsline {subsection}{\numberline {3.3}Gaschromatografie}{22}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Wasser entzug von organischen Lösungen mit Na2SO4 oder CaCl2}{22}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Fehlerquellen für die Versuchsauswertung}{23}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Fehlerklassen und Fehlertoleranzen}{23}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}analoge Messung}{23}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}digitale Messung}{23}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Massenbestimmung}{23}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Volumenmessung}{23}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Druckmessung}{23}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Temperaturmessung}{23}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Messung mittels Elektrode}{23}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}pH-Wert}{23}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}elektrische Leitfähigkeit}{23}{subsubsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.7}Volumenstrommessung}{23}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Geometrische Messungen}{23}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}zufällige Fehler und Messfehler}{23}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Anzahl der Messreihen}{23}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Schwanken der Messwerte}{23}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Fehlerklassen und Fehlertoleranzen}{23}{subsection.4.12}%
+\contentsline {section}{\numberline {5}Grundbegriffe im Labor}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Absaugen}{24}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Absorbieren}{24}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Adsorbieren}{24}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}An- und Abfahren einer Anlage}{24}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Einengen}{24}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Extrahieren}{24}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Klassieren}{24}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Neutralisieren}{24}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Sortieren}{24}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Überkotzen}{24}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Umkristallisieren}{24}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}Waschen (eines Salzes)}{24}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}Stationärer Zustand eines Systems}{24}{subsection.5.13}%
+\contentsline {section}{Literaturverzeichnis}{25}{subsection.5.13}%
+\contentsline {section}{Anhang}{25}{section*.44}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

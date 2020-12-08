@@ -30,6 +30,17 @@ draft=false]
 \end{figure}
 }
 
+%Bild in MInipage
+\newcommand{\minibild}[3]{
+		\vspace{#3}
+		\centering
+		\includegraphics[width=#2\textwidth]{img/#1}
+		\caption{#1}
+		\label{fig:#1}
+}
+
+\usepackage[allfiguresdraft]{draftfigure}
+
 %Section als Chapter
 \RedeclareSectionCommand[%
 %beforeskip = -1sp plus -1sp minus -1sp,% kleinster negativer Wert, um den Absatzeinzug nach der Überschrift zu verhindern.
@@ -86,8 +97,6 @@ hidelinks
 \usetikzlibrary{patterns}
 \usepackage{pdfpages}
 \usepackage[shortlabels]{enumitem}
-
-\usepackage[allfiguresdraft]{draftfigure}
 
 \usepackage{boxedminipage}
 \usepackage{diagbox}
