@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.24)  7 DEC 2020 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.24)  8 DEC 2020 12:26
 entering extended mode
 **./00_Labor_Handout.tex
 (00_Labor_Handout.tex
@@ -285,7 +285,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count189
-Package hyperref Info: Option `draft' set `true' on input line 4338.
+Package hyperref Info: Option `draft' set `false' on input line 4338.
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -1177,11 +1177,21 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count333
 \enitdp@description=\count334
 )
+("C:\Program Files\MiKTeX\tex/latex/draftfigure\draftfigure.sty"
+Package: draftfigure 2017/07/19 v0.2 draftfigure (LCB)
+
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count335
+)
+\df@height=\skip98
+\df@length=\skip99
+)
 ("C:\Program Files\MiKTeX\tex/latex/boxedminipage\boxedminipage.sty"
 Package: boxedminipage 2020/04/19 v1.1 Boxed LaTeX2e minipages
 \bmp@box=\box76
-\bmp@width=\skip98
-\bmp@height=\skip99
+\bmp@width=\skip100
+\bmp@height=\skip101
 )
 ("C:\Program Files\MiKTeX\tex/latex/diagbox\diagbox.sty"
 Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
@@ -1222,29 +1232,29 @@ File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
 \l__siunitx_tmp_box=\box80
 \l__siunitx_tmp_dim=\dimen353
-\l__siunitx_tmp_int=\count335
-\l__siunitx_number_mantissa_length_int=\count336
-\l__siunitx_number_uncert_length_int=\count337
-\l__siunitx_round_int=\count338
-\l__siunitx_process_decimal_int=\count339
-\l__siunitx_process_uncertainty_int=\count340
-\l__siunitx_process_fixed_int=\count341
-\l__siunitx_process_integer_min_int=\count342
-\l__siunitx_process_precision_int=\count343
-\l__siunitx_group_min_int=\count344
+\l__siunitx_tmp_int=\count336
+\l__siunitx_number_mantissa_length_int=\count337
+\l__siunitx_number_uncert_length_int=\count338
+\l__siunitx_round_int=\count339
+\l__siunitx_process_decimal_int=\count340
+\l__siunitx_process_uncertainty_int=\count341
+\l__siunitx_process_fixed_int=\count342
+\l__siunitx_process_integer_min_int=\count343
+\l__siunitx_process_precision_int=\count344
+\l__siunitx_group_min_int=\count345
 \l__siunitx_angle_marker_box=\box81
 \l__siunitx_angle_unit_box=\box82
 \l__siunitx_angle_marker_dim=\dimen354
 \l__siunitx_angle_unit_dim=\dimen355
-\l__siunitx_unit_int=\count345
-\l__siunitx_unit_denominator_int=\count346
-\l__siunitx_unit_numerator_int=\count347
-\l__siunitx_unit_prefix_int=\count348
-\l__siunitx_unit_prefix_base_int=\count349
-\l__siunitx_unit_prefix_gram_int=\count350
-\l__siunitx_number_product_int=\count351
-\c__siunitx_one_fill_skip=\skip100
-\l__siunitx_table_unit_align_skip=\skip101
+\l__siunitx_unit_int=\count346
+\l__siunitx_unit_denominator_int=\count347
+\l__siunitx_unit_numerator_int=\count348
+\l__siunitx_unit_prefix_int=\count349
+\l__siunitx_unit_prefix_base_int=\count350
+\l__siunitx_unit_prefix_gram_int=\count351
+\l__siunitx_number_product_int=\count352
+\c__siunitx_one_fill_skip=\skip102
+\l__siunitx_table_unit_align_skip=\skip103
 \l__siunitx_table_exponent_dim=\dimen356
 \l__siunitx_table_integer_dim=\dimen357
 \l__siunitx_table_mantissa_dim=\dimen358
@@ -1258,8 +1268,8 @@ Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
 \l__siunitx_table_post_box=\box84
 \l__siunitx_table_mantissa_box=\box85
 \l__siunitx_table_result_box=\box86
-\l__siunitx_table_number_align_skip=\skip102
-\l__siunitx_table_text_align_skip=\skip103
+\l__siunitx_table_number_align_skip=\skip104
+\l__siunitx_table_text_align_skip=\skip105
 
 ("C:\Program Files\MiKTeX\tex/latex/translator\translator.sty"
 Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
@@ -1271,12 +1281,12 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@old@col=\dimen367
 \TX@target=\dimen368
 \TX@delta=\dimen369
-\TX@cols=\count352
+\TX@cols=\count353
 \TX@ftn=\toks49
 )
 ("C:\Program Files\MiKTeX\tex/latex/tabulary\tabulary.sty"
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count353
+\TY@count=\count354
 \TY@linewidth=\dimen370
 \tymin=\dimen371
 \tymax=\dimen372
@@ -1298,8 +1308,8 @@ Package: suffix 2006/07/15 1.5a Variant command support
 )
 ("C:\Program Files\MiKTeX\tex/latex/xstring\xstring.sty"
 ("C:\Program Files\MiKTeX\tex/generic/xstring\xstring.tex"
-\integerpart=\count354
-\decimalpart=\count355
+\integerpart=\count355
+\decimalpart=\count356
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
@@ -1311,7 +1321,7 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 LaTeX Info: Redefining \_ on input line 43.
 )
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 17
-7.
+9.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1321,22 +1331,22 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (08_literatur.aux) (09_anhang.aux))
 \openout1 = `00_Labor_Handout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 177.
-LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1372,10 +1382,7 @@ LaTeX Font Info:    ... okay on input line 177.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-Package hyperref Warning: Draft mode on.
-
-Package hyperref Info: Link coloring OFF on input line 177.
+Package hyperref Info: Link coloring OFF on input line 179.
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1385,11 +1392,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count356
+\c@section@level=\count357
 )
-LaTeX Info: Redefining \ref on input line 177.
-LaTeX Info: Redefining \pageref on input line 177.
-LaTeX Info: Redefining \nameref on input line 177.
+LaTeX Info: Redefining \ref on input line 179.
+LaTeX Info: Redefining \pageref on input line 179.
+LaTeX Info: Redefining \nameref on input line 179.
+
+(00_Labor_Handout.out) (00_Labor_Handout.out)
+\@outlinefile=\write4
+\openout4 = `00_Labor_Handout.out'.
+
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
 (scrartcl)           because of handling of possible bookmark level gaps.
@@ -1397,27 +1409,27 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 177.
+(scrartcl)           before \begin{document} on input line 179.
 
 ("C:\Program Files\MiKTeX\tex/latex/bookmark\bookmark.sty"
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 ("C:\Program Files\MiKTeX\tex/latex/bookmark\bkm-pdftex.def"
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count357
+\BKM@id=\count358
 ))
 ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count358
+\scratchcounter=\count359
 \scratchdimen=\dimen374
 \scratchbox=\box87
-\nofMPsegments=\count359
-\nofMParguments=\count360
+\nofMPsegments=\count360
+\nofMParguments=\count361
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count361
+\MPscratchCnt=\count362
 \MPscratchDim=\dimen375
-\MPnumerator=\count362
-\makeMPintoPDFobject=\count363
+\MPnumerator=\count363
+\makeMPintoPDFobject=\count364
 \everyMPtoPDFconversion=\toks52
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1425,7 +1437,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
 
-Package chemgreek Info: Activating mapping `default' on line 177.
+Package chemgreek Info: Activating mapping `default' on line 179.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
@@ -1439,11 +1451,11 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 177.
+ on input line 179.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 177.
+(lastpage)             ! on input line 179.
 ("C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
@@ -1460,54 +1472,54 @@ ish.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-77.
+79.
  ("C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-77.
+79.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-177.
+179.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-177.
+179.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 177.
+(Font)              <12> on input line 179.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 177.
+(Font)              <8> on input line 179.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 177.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 177
+(Font)              <6> on input line 179.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 179
 .
 
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 177
+LaTeX Font Info:    Trying to load font information for U+msb on input line 179
 .
 
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-177.
+179.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-177.
+179.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1515,16 +1527,20 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \openout2 = `01_titel.aux'.
 
  (01_titel.tex
-<img//logos.jpg, id=4, 284.5029pt x 142.3719pt>
-File: img//logos.jpg Graphic file (type jpg)
-<use img//logos.jpg>
-Package pdftex.def Info: img//logos.jpg  used on input line 6.
-(pdftex.def)             Requested size: 213.37665pt x 106.77864pt.
-<img/versuchsaufbau_1.png, id=5, 490.83376pt x 320.69812pt>
-File: img/versuchsaufbau_1.png Graphic file (type png)
-<use img/versuchsaufbau_1.png>
-Package pdftex.def Info: img/versuchsaufbau_1.png  used on input line 43.
-(pdftex.def)             Requested size: 368.1244pt x 240.523pt.
+<img//logos.jpg, id=6, 284.5029pt x 142.3719pt>
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
+.
+
+("C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 6
+.
+
+("C:\Program Files\MiKTeX\tex/latex/lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<img/versuchsaufbau_1.png, id=7, 490.83376pt x 320.69812pt>
 
 Overfull \hbox (12.0pt too wide) in paragraph at lines 2--65
  [] 
@@ -1535,31 +1551,31 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 2--65
 
 
 
-{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img//logos.jpg
-> <./img/versuchsaufbau_1.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
-04.
+{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(00_Labor_Handout.toc)
+\tf@toc=\write5
+\openout5 = `00_Labor_Handout.toc'.
 
-("C:\Program Files\MiKTeX\tex/latex/lm\t1lmss.fd"
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (00_Labor_Handout.toc
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 213.
+
 [1
 
 
-] [2])
-\tf@toc=\write4
-\openout4 = `00_Labor_Handout.toc'.
-
- [3] [4]
+]
 \openout2 = `03_sicheitsmasnahmen.aux'.
 
  (03_sicheitsmasnahmen.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
 .
-
-("C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd"
+ ("C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) [5
+))
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 213.
+
+[2
 
 ]
 \openout2 = `04_geraete.aux'.
@@ -1569,15 +1585,14 @@ Underfull \hbox (badness 2368) in paragraph at lines 17--18
 []\T1/lmr/m/n/14.4 Schlauchverbindung mög-lichst kurz hal-ten und vor hei-ÿen
  []
 
-<img/Grundaufbau_Apparatur.png, id=31, 228.10219pt x 357.58594pt>
-File: img/Grundaufbau_Apparatur.png Graphic file (type png)
-<use img/Grundaufbau_Apparatur.png>
-Package pdftex.def Info: img/Grundaufbau_Apparatur.png  used on input line 21.
-(pdftex.def)             Requested size: 170.71393pt x 267.62679pt.
+<img/Grundaufbau_Apparatur.png, id=28, 228.10219pt x 357.58594pt>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 24.
+
+[3
 
 
 
@@ -1586,16 +1601,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
 (Font)              using `T1/lmss/bx/n' instead on input line 27.
 
-<img/keck_clips.jpg, id=36, 435.6275pt x 451.6875pt>
-File: img/keck_clips.jpg Graphic file (type jpg)
-<use img/keck_clips.jpg>
-Package pdftex.def Info: img/keck_clips.jpg  used on input line 33.
-(pdftex.def)             Requested size: 102.4294pt x 106.2017pt.
-<img/keck_clips_2.jpg, id=37, 95.0921pt x 71.79454pt>
-File: img/keck_clips_2.jpg Graphic file (type jpg)
-<use img/keck_clips_2.jpg>
-Package pdftex.def Info: img/keck_clips_2.jpg  used on input line 39.
-(pdftex.def)             Requested size: 119.49922pt x 90.22714pt.
+<img/keck_clips.jpg, id=45, 435.6275pt x 451.6875pt>
+<img/keck_clips_2.jpg, id=46, 95.0921pt x 71.79454pt>
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
 [][][]|\T1/lmr/m/n/12 Bei-spiel-haf-te Nut-zung
@@ -1612,44 +1619,26 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 49--50
 [][] 
  []
 
-<img/muffe.jpg, id=38, 1004.0712pt x 1004.0712pt>
-File: img/muffe.jpg Graphic file (type jpg)
-<use img/muffe.jpg>
-Package pdftex.def Info: img/muffe.jpg  used on input line 56.
-(pdftex.def)             Requested size: 128.0387pt x 128.03653pt.
+<img/muffe.jpg, id=47, 1004.0712pt x 1004.0712pt>
 
 Underfull \hbox (badness 1596) in paragraph at lines 52--60
 \T1/lmr/m/n/14.4 Stativmuffen sind ei-ner der häu-figs-ten ver-wen-de-ten Bau-t
 eil im
  []
 
-[7 <./img/Grundaufbau_Apparatur.png> <./img/keck_clips.jpg> <./img/keck_clips_2
-.jpg>]
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 60.
+
+[4]
 Underfull \hbox (badness 2302) in paragraph at lines 64--65
 \T1/lmr/m/n/14.4 Hilfs-mit-tel wie Ge-fäÿe, Bü-ret-ten, Kochrin-ge oder ähn-li-
 ches in
  []
 
-<img/korkring.jpg, id=44, 1003.75pt x 648.4225pt>
-File: img/korkring.jpg Graphic file (type jpg)
-<use img/korkring.jpg>
-Package pdftex.def Info: img/korkring.jpg  used on input line 70.
-(pdftex.def)             Requested size: 192.0548pt x 124.06233pt.
-<img/logo_duran.png, id=45, 351.3125pt x 451.6875pt>
-File: img/logo_duran.png Graphic file (type png)
-<use img/logo_duran.png>
-Package pdftex.def Info: img/logo_duran.png  used on input line 83.
-(pdftex.def)             Requested size: 64.01935pt x 82.30649pt.
-<img/logo_jenaerglas.png, id=47, 803.0pt x 302.12875pt>
-File: img/logo_jenaerglas.png Graphic file (type png)
-<use img/logo_jenaerglas.png>
-Package pdftex.def Info: img/logo_jenaerglas.png  used on input line 86.
-(pdftex.def)             Requested size: 89.6267pt x 33.71832pt.
-<img/logo_pyrex.png, id=48, 614.295pt x 184.69pt>
-File: img/logo_pyrex.png Graphic file (type png)
-<use img/logo_pyrex.png>
-Package pdftex.def Info: img/logo_pyrex.png  used on input line 89.
-(pdftex.def)             Requested size: 89.6267pt x 26.94421pt.
+<img/korkring.jpg, id=56, 1003.75pt x 648.4225pt>
+<img/logo_duran.png, id=57, 351.3125pt x 451.6875pt>
+<img/logo_jenaerglas.png, id=59, 803.0pt x 302.12875pt>
+<img/logo_pyrex.png, id=60, 614.295pt x 184.69pt>
 
 Underfull \hbox (badness 2229) in paragraph at lines 78--93
 \T1/lmr/m/n/14.4 Glasgeräte im che-mi-schen La-bor be-ste-hen meis-tens aus Bo-
@@ -1668,646 +1657,15 @@ Underfull \hbox (badness 2165) in paragraph at lines 78--93
 dung,
  []
 
-[8 <./img/muffe.jpg> <./img/korkring.jpg>] [9 <./img/logo_duran.png> <./img/log
-o_jenaerglas.png> <./img/logo_pyrex.png>]
-<img/becherglas.jpg, id=58, 1426.32875pt x 525.965pt>
-File: img/becherglas.jpg Graphic file (type jpg)
-<use img/becherglas.jpg>
-Package pdftex.def Info: img/becherglas.jpg  used on input line 109.
-(pdftex.def)             Requested size: 192.0548pt x 70.81761pt.
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 93.
+
+[5]
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 96.
+
+[6]
+<img/becherglas.jpg, id=77, 1426.32875pt x 525.965pt>
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 106--113
 [][]
- []
-
-<img/rundkolben.jpg, id=59, 1374.13374pt x 558.085pt>
-File: img/rundkolben.jpg Graphic file (type jpg)
-<use img/rundkolben.jpg>
-Package pdftex.def Info: img/rundkolben.jpg  used on input line 121.
-(pdftex.def)             Requested size: 192.0548pt x 77.99512pt.
-
-Underfull \hbox (badness 1681) in paragraph at lines 118--125
-\T1/lmr/m/n/14.4 kön-nen Rund-kol-ben, im Ge-gen-satz zu Stand-kol-ben auch un-
-ter
- []
-
-
-Underfull \hbox (badness 4060) in paragraph at lines 129--131
-\T1/lmr/m/n/14.4 Erlenmeyerkolben und Steh-kol-ben un-ter-schei-den sich im zum
-
- []
-
-[10 <./img/becherglas.jpg> <./img/rundkolben.jpg>]
-<img/standkolben.jpg, id=63, 1505.625pt x 556.0775pt>
-File: img/standkolben.jpg Graphic file (type jpg)
-<use img/standkolben.jpg>
-Package pdftex.def Info: img/standkolben.jpg  used on input line 134.
-(pdftex.def)             Requested size: 277.41176pt x 102.45695pt.
- [11 <./img/standkolben.jpg>]
-<img/Messkolben.jpg, id=67, 366.36874pt x 945.5325pt>
-File: img/Messkolben.jpg Graphic file (type jpg)
-<use img/Messkolben.jpg>
-Package pdftex.def Info: img/Messkolben.jpg  used on input line 173.
-(pdftex.def)             Requested size: 51.21288pt x 132.15723pt.
-
-Underfull \hbox (badness 2884) in paragraph at lines 181--182
-\T1/lmr/m/n/14.4 Ein Mess-zy-lin-der ist ein senk-rech-ter, ho-her Glas- oder P
-las-
- []
-
-
-Underfull \hbox (badness 2134) in paragraph at lines 181--182
-\T1/lmr/m/n/14.4 tik-zy-lin-der mit ei-nem Stand-fuÿ. Über ei-ne auf-ge-brach-t
-e Ska-la
- []
-
-<img/Messzylinder.jpg, id=68, 252.945pt x 272.01625pt>
-File: img/Messzylinder.jpg Graphic file (type jpg)
-<use img/Messzylinder.jpg>
-Package pdftex.def Info: img/Messzylinder.jpg  used on input line 185.
-(pdftex.def)             Requested size: 115.23547pt x 123.92531pt.
-[12 <./img/Messkolben.jpg> <./img/Messzylinder.jpg>]
-<img/bÃ¼rette_beide.jpg, id=74, 145.45714pt x 115.00835pt>
-File: img/bÃ¼rette_beide.jpg Graphic file (type jpg)
-<use img/bÃ¼rette_beide.jpg>
-Package pdftex.def Info: img/bÃ¼rette_beide.jpg  used on input line 199.
-(pdftex.def)             Requested size: 213.39568pt x 168.72853pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 209--210
-[][] 
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 216--217
-[][] 
- []
-
-[13 <./img/bÃ¼rette_beide.jpg>]
-<img/peleusball.png, id=78, 1749.53625pt x 803.0pt>
-File: img/peleusball.png Graphic file (type png)
-<use img/peleusball.png>
-Package pdftex.def Info: img/peleusball.png  used on input line 226.
-(pdftex.def)             Requested size: 213.39568pt x 97.93645pt.
-
-Underfull \hbox (badness 1521) in paragraph at lines 233--234
-\T1/lmr/m/n/14.4 für Voll-pi-pet-ten sind [][], [][], [][], [][] und [][].
- []
-
-<img/vollpipette.png, id=79, 4193.16562pt x 374.90062pt>
-File: img/vollpipette.png Graphic file (type png)
-<use img/vollpipette.png>
-Package pdftex.def Info: img/vollpipette.png  used on input line 237.
-(pdftex.def)             Requested size: 298.75264pt x 26.70908pt.
-[14 <./img/peleusball.png> <./img/vollpipette.png>]
-Overfull \hbox (12.60674pt too wide) in paragraph at lines 246--248
-\T1/lmr/m/n/14.4 Eine ver-brei-te-te Be-zeich-nung für die-se Pi-pet-ten ist []
--Pipette,
- []
-
-<img/eppendorf.jpg, id=86, 1611.49422pt x 406.99422pt>
-File: img/eppendorf.jpg Graphic file (type jpg)
-<use img/eppendorf.jpg>
-Package pdftex.def Info: img/eppendorf.jpg  used on input line 253.
-(pdftex.def)             Requested size: 298.75264pt x 75.448pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 282--283
-[][] 
- []
-
-<img/volumen_eppendorf.png, id=87, 431.36156pt x 271.0125pt>
-File: img/volumen_eppendorf.png Graphic file (type png)
-<use img/volumen_eppendorf.png>
-Package pdftex.def Info: img/volumen_eppendorf.png  used on input line 286.
-(pdftex.def)             Requested size: 192.0548pt x 120.66014pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[15 <./img/eppendorf.jpg>]
-<img/trichter.jpg, id=93, 149.55875pt x 280.04625pt>
-File: img/trichter.jpg Graphic file (type jpg)
-<use img/trichter.jpg>
-Package pdftex.def Info: img/trichter.jpg  used on input line 298.
-(pdftex.def)             Requested size: 149.55838pt x 280.04555pt.
-<img/trichter2.jpg, id=94, 226.8475pt x 187.70125pt>
-File: img/trichter2.jpg Graphic file (type jpg)
-<use img/trichter2.jpg>
-Package pdftex.def Info: img/trichter2.jpg  used on input line 309.
-(pdftex.def)             Requested size: 85.35696pt x 70.6255pt.
-<img/tropftrichter.jpg, id=95, 309.155pt x 709.65125pt>
-File: img/tropftrichter.jpg Graphic file (type jpg)
-<use img/tropftrichter.jpg>
-Package pdftex.def Info: img/tropftrichter.jpg  used on input line 319.
-(pdftex.def)             Requested size: 64.01608pt x 146.94127pt.
-
-Underfull \hbox (badness 1320) in paragraph at lines 316--323
-\T1/lmr/m/n/14.4 Re-ak-ti-ons-mi-schung die-nen. Sie be-sit-zen meist einen Nor
-m-schliff
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 316--323
-\T1/lmr/m/n/14.4 Mit Druck-aus-gleich am Tropf-trich-ter wird ein Ver-damp-fen 
-der
- []
-
-[16 <./img/volumen_eppendorf.png> <./img/trichter.jpg> <./img/trichter2.jpg>]
-Underfull \hbox (badness 2818) in paragraph at lines 326--328
-\T1/lmr/m/n/14.4 Scheidetrichter wer-den des-halb ger-ne auch für Flüssig-Flüss
-ig-
- []
-
-<img/scheidetrichter.jpg, id=100, 213.79875pt x 532.99126pt>
-File: img/scheidetrichter.jpg Graphic file (type jpg)
-<use img/scheidetrichter.jpg>
-Package pdftex.def Info: img/scheidetrichter.jpg  used on input line 331.
-(pdftex.def)             Requested size: 64.01608pt x 159.58955pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[17 <./img/tropftrichter.jpg>]
-Underfull \hbox (badness 3229) in paragraph at lines 339--341
-[][] \T1/lmr/m/n/14.4 so-wie uni-ver-sal, che-misch be-stän-dig sind. Sie be-si
-t-zen
- []
-
-<img/Wasserschlauch.jpg, id=104, 669.50125pt x 501.875pt>
-File: img/Wasserschlauch.jpg Graphic file (type jpg)
-<use img/Wasserschlauch.jpg>
-Package pdftex.def Info: img/Wasserschlauch.jpg  used on input line 342.
-(pdftex.def)             Requested size: 106.69783pt x 79.98pt.
-
-Underfull \hbox (badness 1394) in paragraph at lines 346--347
-\T1/lmr/m/n/14.4 da die-ser ge-gen-über syn-the-tisch her-ge-stell-ten Kau-tsch
-uk hö-he-re
- []
-
-
-Underfull \hbox (badness 3229) in paragraph at lines 346--347
-\T1/lmr/m/n/14.4 Ver-schleiÿ-fes-tig-keit, Al-ters und Wit-te-rungs-be-stän-dig
--keit be-sitzt,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
-
- []
-
-[18 <./img/scheidetrichter.jpg> <./img/Wasserschlauch.jpg>]
-Overfull \hbox (9.93797pt too wide) in paragraph at lines 348--350
- []
- []
-
-<img/Vakuumschlauch.jpg, id=109, 1806.75pt x 1204.5pt>
-File: img/Vakuumschlauch.jpg Graphic file (type jpg)
-<use img/Vakuumschlauch.jpg>
-Package pdftex.def Info: img/Vakuumschlauch.jpg  used on input line 351.
-(pdftex.def)             Requested size: 170.71393pt x 113.80379pt.
-
-Underfull \hbox (badness 2726) in paragraph at lines 354--355
-\T1/lmr/m/n/14.4 für den Schlauch an ei-ne Ap-pa-ra-tur wie-der-zu-fin-den oder
- als
- []
-
-<img/Olive.jpg, id=110, 842.14626pt x 157.58875pt>
-File: img/Olive.jpg Graphic file (type jpg)
-<use img/Olive.jpg>
-Package pdftex.def Info: img/Olive.jpg  used on input line 356.
-(pdftex.def)             Requested size: 213.39568pt x 39.93091pt.
-[19 <./img/Vakuumschlauch.jpg> <./img/Olive.jpg>]
-Underfull \hbox (badness 1484) in paragraph at lines 362--363
-\T1/lmr/m/n/14.4 Filterpapier be-steht meist aus ver-schie-de-nen Fa-ser-schich
--ten wie
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 362--363
-\T1/lmr/m/n/14.4 Gü-te-klas-se die Fest-stoff-teil-chen bis zu ei-nem be-stimm-
-ten Par-
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 362--363
-\T1/lmr/m/n/14.4 ti-kel-durch-mes-ser an der Ober-flä-che und im In-nern des Fi
-l-ters
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
-
- []
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
-
- []
-
-<img/nutsche.jpg, id=120, 72.27pt x 75.28125pt>
-File: img/nutsche.jpg Graphic file (type jpg)
-<use img/nutsche.jpg>
-Package pdftex.def Info: img/nutsche.jpg  used on input line 388.
-(pdftex.def)             Requested size: 170.71393pt x 177.83678pt.
-
-Underfull \hbox (badness 1888) in paragraph at lines 390--390
-\T1/lmr/m/n/14.4 Trich-ter ge-legt wer-den. Liegt ein aus-rei-chen-der Un-ter-d
-ruck an
- []
-
-
-Overfull \hbox (9.93797pt too wide) in paragraph at lines 390--391
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-
- []
-
-[21 <./img/nutsche.jpg>]
-<img/watte.jpg, id=124, 62.2325pt x 117.43875pt>
-File: img/watte.jpg Graphic file (type jpg)
-<use img/watte.jpg>
-Package pdftex.def Info: img/watte.jpg  used on input line 395.
-(pdftex.def)             Requested size: 85.35696pt x 161.09079pt.
-) [22 <./img/watte.jpg>] [23]
-Overfull \vbox (14.06934pt too high) has occurred while \output is active []
-
-
-[24]
-\openout2 = `05_versuchstande.aux'.
-
- (05_versuchstande.tex) [25
-
-
-
-]
-\openout2 = `07_fehlerquellen.aux'.
-
- (07_fehlerquellen.tex) [26
-
-
-
-]
-\openout2 = `10_begriffe.aux'.
-
- (10_begriffe.tex)
-[27
-
-
-
-]
-\openout2 = `08_literatur.aux'.
-
- (08_literatur.tex (00_Labor_Handout.bbl))
-\openout2 = `09_anhang.aux'.
-
- (09_anhang.tex) [28
-
-
-
-
-
-
-]
-
-AED: lastpage setting LastPage
-(00_Labor_Handout.aux (01_titel.aux) (03_sicheitsmasnahmen.aux) (04_geraete.aux
-) (05_versuchstande.aux) (07_fehlerquellen.aux) (10_begriffe.aux)
-(08_literatur.aux) (09_anhang.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
-Here is how much of TeX's memory you used:
- 40469 strings out of 479837
- 949084 string characters out of 2880961
- 1499184 words of memory out of 3000000
- 56455 multiletter control sequences out of 15000+200000
- 665178 words of font info for 121 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 106i,20n,111p,10613b,1005s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.36} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.13} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.12} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.10} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.12} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.10} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.6.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.6.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.4.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.10} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.9} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.8} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.7} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.6} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.5} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.4} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.2.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.1.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.14.3} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.14.2} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.14.1} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.14} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.13.1} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.13} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.12.3} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.12.2} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.12.1} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.12} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.11.4} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.11.3} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.11.2} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.11.1} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.10.4} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.10.3} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.10.2} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.10.1} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.10} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.9.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.9.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.8.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.8.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.8.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.6.4} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.6.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.6.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.6.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.5.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.5.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.5.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.4.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.4.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.2.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.4} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.0.5} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.0.4} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.0.3} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.0.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.0.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiK
-TeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/l
-m-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program 
-Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX/fonts/type1/
-public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb
-><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/Mi
-KTeX/fonts/type1/public/lm/lmmib10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
-lic/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/f
-onts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/l
-m/lmsy10.pfb>
-Output written on 00_Labor_Handout.pdf (29 pages, 4123175 bytes).
-PDF statistics:
- 624 PDF objects out of 1000 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
- 990 words of extra memory for PDF output out of 10000 (max. 10000000)
-
