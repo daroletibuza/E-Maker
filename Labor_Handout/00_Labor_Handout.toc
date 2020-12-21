@@ -21,7 +21,7 @@
 \contentsline {subsection}{\numberline {2.7}Waschflaschen}{19}{subsection.2.7}%
 \contentsline {subsection}{\numberline {2.8}Rührer}{20}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}Kühler}{22}{subsection.2.9}%
-\contentsline {subsection}{\numberline {2.10}Heizelemente}{23}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.10}Heiz- und Kühlelemente}{23}{subsection.2.10}%
 \contentsline {subsection}{\numberline {2.11}Apparaturen zum Trocknen und Brennen}{25}{subsection.2.11}%
 \contentsline {subsection}{\numberline {2.12}Pumpen}{27}{subsection.2.12}%
 \contentsline {subsection}{\numberline {2.13}Füllkörper}{27}{subsection.2.13}%
