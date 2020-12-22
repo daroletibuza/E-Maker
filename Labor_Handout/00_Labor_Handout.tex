@@ -98,6 +98,10 @@ hidelinks
 \usetikzlibrary{patterns}
 \usepackage{pdfpages}
 \usepackage[shortlabels]{enumitem}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\usepackage[graphicx]{realboxes}
 
 \usepackage{boxedminipage}
 \usepackage{diagbox}
@@ -118,6 +122,8 @@ hidelinks
 
 %Automatisch cdot statt *
 \DeclareMathSymbol{*}{\mathbin}{symbols}{"01}
+
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
 
 
 %Tabelle

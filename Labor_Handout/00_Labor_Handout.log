@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.12.13)  22 DEC 2020 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.12.13)  22 DEC 2020 16:31
 entering extended mode
 **./00_Labor_Handout.tex
 (00_Labor_Handout.tex
@@ -1187,11 +1187,30 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count334
 \enitdp@description=\count335
 )
+("C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count336
+\rotFPtop=\skip100
+\rotFPbot=\skip101
+\rot@float@box=\box76
+\rot@mess@toks=\toks48
+)
+("C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip102
+\multirow@cntb=\count337
+\multirow@dima=\skip103
+\bigstrutjot=\dimen339
+)
+("C:\Program Files\MiKTeX\tex/latex/realboxes\realboxes.sty"
+Package: realboxes 2011/08/08 v0.2 Change box commands to read there content as
+ real boxes
+)
 ("C:\Program Files\MiKTeX\tex/latex/boxedminipage\boxedminipage.sty"
 Package: boxedminipage 2020/04/19 v1.1 Boxed LaTeX2e minipages
-\bmp@box=\box76
-\bmp@width=\skip100
-\bmp@height=\skip101
+\bmp@box=\box77
+\bmp@width=\skip104
+\bmp@height=\skip105
 )
 ("C:\Program Files\MiKTeX\tex/latex/diagbox\diagbox.sty"
 Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
@@ -1208,89 +1227,89 @@ Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
 ("C:\Program Files\MiKTeX\tex/latex/pict2e\p2e-pdftex.def"
 File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
-\pIIe@GRAPH=\toks48
-\@arclen=\dimen339
-\@arcrad=\dimen340
-\pIIe@tempdima=\dimen341
-\pIIe@tempdimb=\dimen342
-\pIIe@tempdimc=\dimen343
-\pIIe@tempdimd=\dimen344
-\pIIe@tempdime=\dimen345
-\pIIe@tempdimf=\dimen346
+\pIIe@GRAPH=\toks49
+\@arclen=\dimen340
+\@arcrad=\dimen341
+\pIIe@tempdima=\dimen342
+\pIIe@tempdimb=\dimen343
+\pIIe@tempdimc=\dimen344
+\pIIe@tempdimd=\dimen345
+\pIIe@tempdime=\dimen346
+\pIIe@tempdimf=\dimen347
 )
-\diagbox@boxa=\box77
-\diagbox@boxb=\box78
-\diagbox@boxm=\box79
-\diagbox@wd=\dimen347
-\diagbox@ht=\dimen348
-\diagbox@insepl=\dimen349
-\diagbox@insepr=\dimen350
-\diagbox@outsepl=\dimen351
-\diagbox@outsepr=\dimen352
+\diagbox@boxa=\box78
+\diagbox@boxb=\box79
+\diagbox@boxm=\box80
+\diagbox@wd=\dimen348
+\diagbox@ht=\dimen349
+\diagbox@insepl=\dimen350
+\diagbox@insepr=\dimen351
+\diagbox@outsepl=\dimen352
+\diagbox@outsepr=\dimen353
 )
 ("C:\Program Files\MiKTeX\tex/latex/siunitx\siunitx.sty"
 Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
-\l__siunitx_tmp_box=\box80
-\l__siunitx_tmp_dim=\dimen353
-\l__siunitx_tmp_int=\count336
-\l__siunitx_number_mantissa_length_int=\count337
-\l__siunitx_number_uncert_length_int=\count338
-\l__siunitx_round_int=\count339
-\l__siunitx_process_decimal_int=\count340
-\l__siunitx_process_uncertainty_int=\count341
-\l__siunitx_process_fixed_int=\count342
-\l__siunitx_process_integer_min_int=\count343
-\l__siunitx_process_precision_int=\count344
-\l__siunitx_group_min_int=\count345
-\l__siunitx_angle_marker_box=\box81
-\l__siunitx_angle_unit_box=\box82
-\l__siunitx_angle_marker_dim=\dimen354
-\l__siunitx_angle_unit_dim=\dimen355
-\l__siunitx_unit_int=\count346
-\l__siunitx_unit_denominator_int=\count347
-\l__siunitx_unit_numerator_int=\count348
-\l__siunitx_unit_prefix_int=\count349
-\l__siunitx_unit_prefix_base_int=\count350
-\l__siunitx_unit_prefix_gram_int=\count351
-\l__siunitx_number_product_int=\count352
-\c__siunitx_one_fill_skip=\skip102
-\l__siunitx_table_unit_align_skip=\skip103
-\l__siunitx_table_exponent_dim=\dimen356
-\l__siunitx_table_integer_dim=\dimen357
-\l__siunitx_table_mantissa_dim=\dimen358
-\l__siunitx_table_marker_dim=\dimen359
-\l__siunitx_table_result_dim=\dimen360
-\l__siunitx_table_uncert_dim=\dimen361
-\l__siunitx_table_fill_pre_dim=\dimen362
-\l__siunitx_table_fill_post_dim=\dimen363
-\l__siunitx_table_fill_mid_dim=\dimen364
-\l__siunitx_table_pre_box=\box83
-\l__siunitx_table_post_box=\box84
-\l__siunitx_table_mantissa_box=\box85
-\l__siunitx_table_result_box=\box86
-\l__siunitx_table_number_align_skip=\skip104
-\l__siunitx_table_text_align_skip=\skip105
+\l__siunitx_tmp_box=\box81
+\l__siunitx_tmp_dim=\dimen354
+\l__siunitx_tmp_int=\count338
+\l__siunitx_number_mantissa_length_int=\count339
+\l__siunitx_number_uncert_length_int=\count340
+\l__siunitx_round_int=\count341
+\l__siunitx_process_decimal_int=\count342
+\l__siunitx_process_uncertainty_int=\count343
+\l__siunitx_process_fixed_int=\count344
+\l__siunitx_process_integer_min_int=\count345
+\l__siunitx_process_precision_int=\count346
+\l__siunitx_group_min_int=\count347
+\l__siunitx_angle_marker_box=\box82
+\l__siunitx_angle_unit_box=\box83
+\l__siunitx_angle_marker_dim=\dimen355
+\l__siunitx_angle_unit_dim=\dimen356
+\l__siunitx_unit_int=\count348
+\l__siunitx_unit_denominator_int=\count349
+\l__siunitx_unit_numerator_int=\count350
+\l__siunitx_unit_prefix_int=\count351
+\l__siunitx_unit_prefix_base_int=\count352
+\l__siunitx_unit_prefix_gram_int=\count353
+\l__siunitx_number_product_int=\count354
+\c__siunitx_one_fill_skip=\skip106
+\l__siunitx_table_unit_align_skip=\skip107
+\l__siunitx_table_exponent_dim=\dimen357
+\l__siunitx_table_integer_dim=\dimen358
+\l__siunitx_table_mantissa_dim=\dimen359
+\l__siunitx_table_marker_dim=\dimen360
+\l__siunitx_table_result_dim=\dimen361
+\l__siunitx_table_uncert_dim=\dimen362
+\l__siunitx_table_fill_pre_dim=\dimen363
+\l__siunitx_table_fill_post_dim=\dimen364
+\l__siunitx_table_fill_mid_dim=\dimen365
+\l__siunitx_table_pre_box=\box84
+\l__siunitx_table_post_box=\box85
+\l__siunitx_table_mantissa_box=\box86
+\l__siunitx_table_result_box=\box87
+\l__siunitx_table_number_align_skip=\skip108
+\l__siunitx_table_text_align_skip=\skip109
 
 ("C:\Program Files\MiKTeX\tex/latex/translator\translator.sty"
 Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
 ))
 ("C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty"
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen365
-\TX@old@table=\dimen366
-\TX@old@col=\dimen367
-\TX@target=\dimen368
-\TX@delta=\dimen369
-\TX@cols=\count353
-\TX@ftn=\toks49
+\TX@col@width=\dimen366
+\TX@old@table=\dimen367
+\TX@old@col=\dimen368
+\TX@target=\dimen369
+\TX@delta=\dimen370
+\TX@cols=\count355
+\TX@ftn=\toks50
 )
 ("C:\Program Files\MiKTeX\tex/latex/tabulary\tabulary.sty"
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count354
-\TY@linewidth=\dimen370
-\tymin=\dimen371
-\tymax=\dimen372
-\TY@tablewidth=\dimen373
+\TY@count=\count356
+\TY@linewidth=\dimen371
+\tymin=\dimen372
+\tymax=\dimen373
+\TY@tablewidth=\dimen374
 )
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -1308,20 +1327,20 @@ Package: suffix 2006/07/15 1.5a Variant command support
 )
 ("C:\Program Files\MiKTeX\tex/latex/xstring\xstring.sty"
 ("C:\Program Files\MiKTeX\tex/generic/xstring\xstring.tex"
-\integerpart=\count355
-\decimalpart=\count356
+\integerpart=\count357
+\decimalpart=\count358
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
-\AC@clearlist=\toks50
+\AC@clearlist=\toks51
 )
 ("C:\Program Files\MiKTeX\tex/latex/hyphenat\hyphenat.sty"
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language80
 LaTeX Info: Redefining \_ on input line 43.
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 18
-9.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 19
+5.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1331,36 +1350,36 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (08_literatur.aux) (09_anhang.aux))
 \openout1 = `00_Labor_Handout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
 
 ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count357
-\scratchdimen=\dimen374
-\scratchbox=\box87
-\nofMPsegments=\count358
-\nofMParguments=\count359
-\everyMPshowfont=\toks51
-\MPscratchCnt=\count360
-\MPscratchDim=\dimen375
-\MPnumerator=\count361
-\makeMPintoPDFobject=\count362
-\everyMPtoPDFconversion=\toks52
+\scratchcounter=\count359
+\scratchdimen=\dimen375
+\scratchbox=\box88
+\nofMPsegments=\count360
+\nofMParguments=\count361
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count362
+\MPscratchDim=\dimen376
+\MPnumerator=\count363
+\makeMPintoPDFobject=\count364
+\everyMPtoPDFconversion=\toks53
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -1408,7 +1427,7 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 189.
+Package hyperref Info: Link coloring OFF on input line 195.
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1418,11 +1437,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count363
+\c@section@level=\count365
 )
-LaTeX Info: Redefining \ref on input line 189.
-LaTeX Info: Redefining \pageref on input line 189.
-LaTeX Info: Redefining \nameref on input line 189.
+LaTeX Info: Redefining \ref on input line 195.
+LaTeX Info: Redefining \pageref on input line 195.
+LaTeX Info: Redefining \nameref on input line 195.
 
 (00_Labor_Handout.out) (00_Labor_Handout.out)
 \@outlinefile=\write4
@@ -1435,17 +1454,17 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 189.
+(scrartcl)           before \begin{document} on input line 195.
 
 ("C:\Program Files\MiKTeX\tex/latex/bookmark\bookmark.sty"
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 ("C:\Program Files\MiKTeX\tex/latex/bookmark\bkm-pdftex.def"
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count364
+\BKM@id=\count366
 ))
 
-Package chemgreek Info: Activating mapping `default' on line 189.
+Package chemgreek Info: Activating mapping `default' on line 195.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
@@ -1453,17 +1472,18 @@ Package caption Info: longtable package is loaded.
 ("C:\Program Files\MiKTeX\tex/latex/caption\ltcaption.sty"
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
+Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 189.
+ on input line 195.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 189.
+(lastpage)             ! on input line 195.
 ("C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
@@ -1480,54 +1500,54 @@ ish.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-89.
+95.
  ("C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-89.
+95.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-189.
+195.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-189.
+195.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 189.
+(Font)              <12> on input line 195.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 189.
+(Font)              <8> on input line 195.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 189.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 189
+(Font)              <6> on input line 195.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 195
 .
 
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 189
+LaTeX Font Info:    Trying to load font information for U+msb on input line 195
 .
 
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-189.
+195.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-189.
+195.
 
 ("C:\Program Files\MiKTeX\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1991,4 +2011,161 @@ Overfull \hbox (9.93797pt too wide) in paragraph at lines 612--613
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 617--619
+
+ []
+
+
+Overfull \hbox (9.93797pt too wide) in paragraph at lines 620--621
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
+
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 627--629
+\T1/lmr/m/n/14.4 wel-cher im che-mi-schen La-bor zum Er-hit-zen von Pro-ben ode
+r
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--629
+
+ []
+
+<img/brennerflamme3.jpg, id=377, 688.5725pt x 275.0275pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24]
+Underfull \hbox (badness 1558) in paragraph at lines 640--644
+\T1/lmr/m/n/14.4 in-ner-halb ei-nes Be-cher-gla-ses, ei-ner Kris-tal-li-sier-sc
+ha-le oder ei-ner
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 640--644
+\T1/lmr/m/n/14.4 Prinzipiell ent-zieht im Ex-sik-ka-tor das Tro-cken-mit-tel de
+m zu
+ []
+
+<img/Exsikkator.jpg, id=387, 1803.73875pt x 728.7225pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25]
+Underfull \hbox (badness 1122) in paragraph at lines 651--652
+[]\T1/lmr/m/n/12 Mit Tro-cken-schrän-ken kön-nen gleich-zei-tig meh-re-re
+ []
+
+<img/Trockenschrank.jpg, id=393, 2208.25pt x 2128.95375pt>
+
+Underfull \hbox (badness 1237) in paragraph at lines 665--667
+\T1/lmr/m/n/12 mit dem zu bren-nen-den/schmelzenden Gut durch
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 665--667
+\T1/lmr/m/n/12 Ver-fah-ren in der Ana-ly-tik ge-nutzt oder in der
+ []
+
+<img/Muffelofen.jpg, id=394, 1204.5pt x 903.375pt>
+[26]
+Underfull \hbox (badness 4366) in paragraph at lines 679--681
+\T1/lmr/m/n/14.4 Pumpen wer-den ge-ra-de in der Ver-fah-rens-tech-nik, aber auc
+h
+ []
+
+[27]
+Overfull \hbox (134.8944pt too wide) in paragraph at lines 707--707
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28]) [29
+
+]
+\openout2 = `05_versuchstande.aux'.
+
+ (05_versuchstande.tex) [30
+
+
+
+]
+\openout2 = `07_fehlerquellen.aux'.
+
+ (07_fehlerquellen.tex) [31
+
+
+
+]
+\openout2 = `10_begriffe.aux'.
+
+
+(10_begriffe.tex) [32
+
+
+
+]
+\openout2 = `08_literatur.aux'.
+
+ (08_literatur.tex (00_Labor_Handout.bbl))
+\openout2 = `09_anhang.aux'.
+
+ (09_anhang.tex) [33
+
+
+
+
+
+
+] 
+AED: lastpage setting LastPage
+(00_Labor_Handout.aux (01_titel.aux) (03_sicheitsmasnahmen.aux) (04_geraete.aux
+) (05_versuchstande.aux) (07_fehlerquellen.aux) (10_begriffe.aux)
+(08_literatur.aux) (09_anhang.aux))
+Package rerunfilecheck Info: File `00_Labor_Handout.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 41295 strings out of 479837
+ 961507 string characters out of 2880961
+ 1512640 words of memory out of 3000000
+ 57124 multiletter control sequences out of 15000+200000
+ 676854 words of font info for 128 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 106i,20n,115p,10613b,1063s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Normschliff} has been referenced but does not exi
+st, replaced by a fixed one
+
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/
+fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm
+-ts1.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program File
+s/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX/fonts/type1/
+public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb
+><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/public/lm/lmmib10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lm
+ssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 00_Labor_Handout.pdf (34 pages, 329308 bytes).
+PDF statistics:
+ 761 PDF objects out of 1000 (max. 8388607)
+ 203 named destinations out of 1000 (max. 500000)
+ 806 words of extra memory for PDF output out of 10000 (max. 10000000)
+
