@@ -10,6 +10,8 @@ a4paper,
 draft=false]
 {scrartcl}
 
+%\usepackage[allfiguresdraft]{draftfigure}
+
 %angepasster \today Command
 \newcommand{\leadingzero}[1]{\ifnum #1<10 0\the#1\else\the#1\fi}
 \newcommand{\todayDE}{\leadingzero{\day}.\leadingzero{\month}.\the\year}
@@ -40,7 +42,9 @@ draft=false]
 		\label{fig:#1}
 }
 
-\usepackage[allfiguresdraft]{draftfigure}
+%Bild in Tabelle
+\newcommand{\tablebild}[2]{
+\raisebox{-\totalheight}{\includegraphics[width=#1\textwidth]{img/#2}}}
 
 %Section als Chapter
 \RedeclareSectionCommand[%
