@@ -42,9 +42,22 @@ draft=false]
 		\label{fig:#1}
 }
 
+%Bild in MInipage 2
+\newcommand{\mminibild}[4]{
+	\vspace{#4}
+	\centering
+	\includegraphics[width=#3\textwidth]{img/#1}
+	\caption{#2}
+	\label{fig:#1}
+}
+
 %Bild in Tabelle
 \newcommand{\tablebild}[2]{
 \raisebox{-\totalheight}{\includegraphics[width=#1\textwidth]{img/#2}}}
+
+%Anmerkung
+\newcommand{\anmerkung}[1]{\vspace*{3mm}
+\textcolor{red}{#1}}
 
 %Section als Chapter
 \RedeclareSectionCommand[%
@@ -244,7 +257,7 @@ hidelinks
 
 \include{08_literatur}
 
-\include{09_anhang}
+%\include{09_anhang}
 
 %\include{09_erklaerung}
 

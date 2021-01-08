@@ -9,59 +9,41 @@
 \contentsline {subsection}{\numberline {2.5}Filter}{15}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}Waschflaschen}{17}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}Rührer}{18}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}Kühler}{20}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.8}Kühler}{19}{subsection.2.8}%
 \contentsline {subsection}{\numberline {2.9}Heiz- und Kühlelemente}{20}{subsection.2.9}%
 \contentsline {subsection}{\numberline {2.10}Apparaturen zum Trocknen und Brennen}{22}{subsection.2.10}%
-\contentsline {subsection}{\numberline {2.11}Pumpen}{25}{subsection.2.11}%
-\contentsline {subsection}{\numberline {2.12}Füllkörper}{26}{subsection.2.12}%
-\contentsline {subsection}{\numberline {2.13}Zusätzlich:}{27}{subsection.2.13}%
-\contentsline {section}{\numberline {3}Typische Versuchsstände und Aufgaben}{30}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Typische Versuchsstände}{30}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Titrationsapparatur}{30}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Typische Verfahren und Aufgabenstellungen}{30}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Dichtebestimmung}{30}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Trocknung von Feststoffen}{30}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Destillation}{30}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}Umkristallisieren}{30}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Extraktion}{30}{subsubsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.6}Absaugen alias Vakuumfiltrieren}{30}{subsubsection.3.2.6}%
-\contentsline {subsubsection}{\numberline {3.2.7}Schmelzpunkt}{30}{subsubsection.3.2.7}%
-\contentsline {subsubsection}{\numberline {3.2.8}Siedepunkt}{30}{subsubsection.3.2.8}%
-\contentsline {subsubsection}{\numberline {3.2.9}Refraktometrie}{30}{subsubsection.3.2.9}%
-\contentsline {subsubsection}{\numberline {3.2.10}Dünnschichtchromatographie}{30}{subsubsection.3.2.10}%
-\contentsline {subsection}{\numberline {3.3}Gaschromatografie}{30}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Wasser entzug von organischen Lösungen mit Na2SO4 oder CaCl2}{30}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Fehlerquellen für die Versuchsauswertung}{31}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Fehlerklassen und Fehlertoleranzen}{31}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}analoge Messung}{31}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}digitale Messung}{31}{subsubsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.2}Massenbestimmung}{31}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Volumenmessung}{31}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Druckmessung}{31}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Temperaturmessung}{31}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Messung mittels Elektrode}{31}{subsection.4.6}%
-\contentsline {subsubsection}{\numberline {4.6.1}pH-Wert}{31}{subsubsection.4.6.1}%
-\contentsline {subsubsection}{\numberline {4.6.2}elektrische Leitfähigkeit}{31}{subsubsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.7}Volumenstrommessung}{31}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Geometrische Messungen}{31}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}zufällige Fehler und Messfehler}{31}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10}Anzahl der Messreihen}{31}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}Schwanken der Messwerte}{31}{subsection.4.11}%
-\contentsline {subsection}{\numberline {4.12}Fehlerklassen und Fehlertoleranzen}{31}{subsection.4.12}%
-\contentsline {section}{\numberline {5}Grundbegriffe im Labor}{32}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Absaugen}{32}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Absorbieren}{32}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Adsorbieren}{32}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}An- und Abfahren einer Anlage}{32}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Einengen}{32}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Extrahieren}{32}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}Klassieren}{32}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}Neutralisieren}{32}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}Sortieren}{32}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}Überkotzen}{32}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}Umkristallisieren}{32}{subsection.5.11}%
-\contentsline {subsection}{\numberline {5.12}Waschen (eines Salzes)}{32}{subsection.5.12}%
-\contentsline {subsection}{\numberline {5.13}Stationärer Zustand eines Systems}{32}{subsection.5.13}%
-\contentsline {section}{Literaturverzeichnis}{33}{subsection.5.13}%
-\contentsline {section}{Anhang}{33}{section*.85}%
+\contentsline {subsection}{\numberline {2.11}Pumpen}{24}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}Füllkörper}{25}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}Zusätzlich:}{26}{subsection.2.13}%
+\contentsline {section}{\numberline {3}Typische Versuchsstände und Aufgaben}{29}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Typische Versuchsstände}{29}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Typische Verfahren und Aufgabenstellungen}{29}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Fehlerquellen für die Versuchsauswertung}{30}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Fehlerklassen und Fehlertoleranzen}{30}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Massenbestimmung}{30}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Volumenmessung}{30}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Druckmessung}{30}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Temperaturmessung}{30}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Messung mittels Elektrode}{30}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Volumenstrommessung}{30}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Geometrische Messungen}{30}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}zufällige Fehler und Messfehler}{30}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Anzahl der Messreihen}{30}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Schwanken der Messwerte}{30}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Fehlerklassen und Fehlertoleranzen}{30}{subsection.4.12}%
+\contentsline {section}{\numberline {5}Grundbegriffe im Labor}{31}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Absaugen}{31}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Absorbieren}{31}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Adsorbieren}{31}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}An- und Abfahren einer Anlage}{31}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Einengen}{31}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Extrahieren}{31}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Klassieren}{31}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Konditionieren (einer Elektrode)}{31}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Neutralisieren}{31}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Sortieren}{31}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Überkotzen}{31}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}Umkristallisieren}{31}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}Waschen (eines Salzes)}{31}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}Stationärer Zustand eines Systems}{31}{subsection.5.14}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
