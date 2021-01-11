@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.1.8)  8 JAN 2021 11:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.1.8)  11 JAN 2021 17:19
 entering extended mode
 **./00_Labor_Handout.tex
 (00_Labor_Handout.tex
@@ -1596,12 +1596,12 @@ Underfull \hbox (badness 2368) in paragraph at lines 17--18
 []\T1/lmr/m/n/14.4 Schlauchverbindung mög-lichst kurz hal-ten und vor hei-ÿen
  []
 
-<img/Grundaufbau_Apparatur.png, id=126, 228.10219pt x 357.58594pt>
+<img/Grundaufbau_Apparatur.png, id=124, 228.10219pt x 357.58594pt>
 File: img/Grundaufbau_Apparatur.png Graphic file (type png)
 <use img/Grundaufbau_Apparatur.png>
 Package pdftex.def Info: img/Grundaufbau_Apparatur.png  used on input line 23.
 (pdftex.def)             Requested size: 115.23404pt x 180.64221pt.
-<img/muffe_anmerkung2.png, id=127, 592.46344pt x 336.50719pt>
+<img/muffe_anmerkung2.png, id=125, 592.46344pt x 336.50719pt>
 File: img/muffe_anmerkung2.png Graphic file (type png)
 <use img/muffe_anmerkung2.png>
 Package pdftex.def Info: img/muffe_anmerkung2.png  used on input line 29.
@@ -1623,12 +1623,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
 (Font)              using `T1/lmss/bx/n' instead on input line 39.
 
-<img/keck_clips.jpg, id=144, 435.6275pt x 451.6875pt>
+<img/keck_clips.jpg, id=142, 435.6275pt x 451.6875pt>
 File: img/keck_clips.jpg Graphic file (type jpg)
 <use img/keck_clips.jpg>
 Package pdftex.def Info: img/keck_clips.jpg  used on input line 45.
 (pdftex.def)             Requested size: 102.4294pt x 106.2017pt.
-<img/keck_clips_2.jpg, id=145, 95.0921pt x 71.79454pt>
+<img/keck_clips_2.jpg, id=143, 95.0921pt x 71.79454pt>
 File: img/keck_clips_2.jpg Graphic file (type jpg)
 <use img/keck_clips_2.jpg>
 Package pdftex.def Info: img/keck_clips_2.jpg  used on input line 51.
@@ -1651,7 +1651,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 61--62
 
 [5 <./img/Grundaufbau_Apparatur.png> <./img/muffe_anmerkung2.png> <./img/keck_c
 lips.jpg> <./img/keck_clips_2.jpg>]
-<img/muffe.jpg, id=156, 1004.0712pt x 1004.0712pt>
+<img/muffe.jpg, id=154, 1004.0712pt x 1004.0712pt>
 File: img/muffe.jpg Graphic file (type jpg)
 <use img/muffe.jpg>
 Package pdftex.def Info: img/muffe.jpg  used on input line 70.
@@ -1668,22 +1668,22 @@ Underfull \hbox (badness 2302) in paragraph at lines 78--79
 ches in
  []
 
-<img/korkring.jpg, id=157, 1003.75pt x 648.4225pt>
+<img/korkring.jpg, id=155, 1003.75pt x 648.4225pt>
 File: img/korkring.jpg Graphic file (type jpg)
 <use img/korkring.jpg>
 Package pdftex.def Info: img/korkring.jpg  used on input line 84.
 (pdftex.def)             Requested size: 192.0548pt x 124.06233pt.
-<img/logo_duran.png, id=158, 351.3125pt x 451.6875pt>
+<img/logo_duran.png, id=156, 351.3125pt x 451.6875pt>
 File: img/logo_duran.png Graphic file (type png)
 <use img/logo_duran.png>
 Package pdftex.def Info: img/logo_duran.png  used on input line 97.
 (pdftex.def)             Requested size: 64.01935pt x 82.30649pt.
-<img/logo_jenaerglas.png, id=159, 803.0pt x 302.12875pt>
+<img/logo_jenaerglas.png, id=157, 803.0pt x 302.12875pt>
 File: img/logo_jenaerglas.png Graphic file (type png)
 <use img/logo_jenaerglas.png>
 Package pdftex.def Info: img/logo_jenaerglas.png  used on input line 100.
 (pdftex.def)             Requested size: 89.6267pt x 33.71832pt.
-<img/logo_pyrex.png, id=160, 614.295pt x 184.69pt>
+<img/logo_pyrex.png, id=158, 614.295pt x 184.69pt>
 File: img/logo_pyrex.png Graphic file (type png)
 <use img/logo_pyrex.png>
 Package pdftex.def Info: img/logo_pyrex.png  used on input line 103.
@@ -1707,7 +1707,7 @@ dung,
  []
 
 [6 <./img/muffe.jpg> <./img/korkring.jpg>]
-<img/becherglas.jpg, id=171, 1426.32875pt x 525.965pt>
+<img/becherglas.jpg, id=169, 1426.32875pt x 525.965pt>
 File: img/becherglas.jpg Graphic file (type jpg)
 <use img/becherglas.jpg>
 Package pdftex.def Info: img/becherglas.jpg  used on input line 121.
@@ -1717,7 +1717,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 118--125
 [][]
  []
 
-<img/rundkolben.jpg, id=173, 1374.13374pt x 558.085pt>
+<img/rundkolben.jpg, id=171, 1374.13374pt x 558.085pt>
 File: img/rundkolben.jpg Graphic file (type jpg)
 <use img/rundkolben.jpg>
 Package pdftex.def Info: img/rundkolben.jpg  used on input line 133.
@@ -1730,7 +1730,7 @@ ter
 
 [7 <./img/logo_duran.png> <./img/logo_jenaerglas.png> <./img/logo_pyrex.png> <.
 /img/becherglas.jpg>]
-<img/standkolben.jpg, id=185, 1505.625pt x 556.0775pt>
+<img/standkolben.jpg, id=183, 1505.625pt x 556.0775pt>
 File: img/standkolben.jpg Graphic file (type jpg)
 <use img/standkolben.jpg>
 Package pdftex.def Info: img/standkolben.jpg  used on input line 146.
@@ -1740,13 +1740,13 @@ Package pdftex.def Info: img/standkolben.jpg  used on input line 146.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8 <./img/rundkolben.jpg>]
-<img/Messkolben.jpg, id=194, 366.36874pt x 945.5325pt>
+<img/Messkolben.jpg, id=192, 366.36874pt x 945.5325pt>
 File: img/Messkolben.jpg Graphic file (type jpg)
 <use img/Messkolben.jpg>
 Package pdftex.def Info: img/Messkolben.jpg  used on input line 186.
 (pdftex.def)             Requested size: 46.2991pt x 119.50148pt.
  [9 <./img/standkolben.jpg> <./img/Messkolben.jpg>]
-<img/Messzylinder.jpg, id=204, 252.945pt x 272.01625pt>
+<img/Messzylinder.jpg, id=202, 252.945pt x 272.01625pt>
 File: img/Messzylinder.jpg Graphic file (type jpg)
 <use img/Messzylinder.jpg>
 Package pdftex.def Info: img/Messzylinder.jpg  used on input line 198.
@@ -1761,7 +1761,7 @@ Overfull \hbox (2.61105pt too wide) in paragraph at lines 196--206
 [][]  [] 
  []
 
-<img/bÃ¼rette_beide.jpg, id=206, 145.45714pt x 115.00835pt>
+<img/bÃ¼rette_beide.jpg, id=204, 145.45714pt x 115.00835pt>
 File: img/bÃ¼rette_beide.jpg Graphic file (type jpg)
 <use img/bÃ¼rette_beide.jpg>
 Package pdftex.def Info: img/bÃ¼rette_beide.jpg  used on input line 214.
@@ -1787,12 +1787,12 @@ Underfull \hbox (badness 2818) in paragraph at lines 240--241
 \T1/lmr/m/n/12 er-mög-licht wird. Hier-für wird der Aus-lass A ge-öff-net
  []
 
-<img/peleusball.png, id=215, 1749.53625pt x 803.0pt>
+<img/peleusball.png, id=213, 1749.53625pt x 803.0pt>
 File: img/peleusball.png Graphic file (type png)
 <use img/peleusball.png>
 Package pdftex.def Info: img/peleusball.png  used on input line 247.
 (pdftex.def)             Requested size: 1749.532pt x 802.99805pt.
-<img/vollpipette.png, id=216, 4193.16562pt x 374.90062pt>
+<img/vollpipette.png, id=214, 4193.16562pt x 374.90062pt>
 File: img/vollpipette.png Graphic file (type png)
 <use img/vollpipette.png>
 Package pdftex.def Info: img/vollpipette.png  used on input line 260.
@@ -1817,7 +1817,7 @@ Underfull \hbox (badness 1590) in paragraph at lines 277--279
 \T1/lmr/m/n/12 des Pi-pet-ten-her-stel-lers be-schreibt und nicht die
  []
 
-<img/eppendorf.jpg, id=217, 406.99422pt x 1453.00737pt>
+<img/eppendorf.jpg, id=215, 406.99422pt x 1453.00737pt>
 File: img/eppendorf.jpg Graphic file (type jpg)
 <use img/eppendorf.jpg>
 Package pdftex.def Info: img/eppendorf.jpg  used on input line 285.
@@ -1827,7 +1827,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 313--314
 [][] 
  []
 
-<img/volumen_eppendorf.png, id=218, 431.36156pt x 271.0125pt>
+<img/volumen_eppendorf.png, id=216, 431.36156pt x 271.0125pt>
 File: img/volumen_eppendorf.png Graphic file (type png)
 <use img/volumen_eppendorf.png>
 Package pdftex.def Info: img/volumen_eppendorf.png  used on input line 317.
@@ -1847,18 +1847,18 @@ Underfull \hbox (badness 4001) in paragraph at lines 332--333
 \T1/lmr/m/n/12 Flüs-sig-kei-ten in Ge-fäÿe mit klei-ner Mün-dung,
  []
 
-<img/trichter.jpg, id=233, 149.55875pt x 280.04625pt>
+<img/trichter.jpg, id=231, 149.55875pt x 280.04625pt>
 File: img/trichter.jpg Graphic file (type jpg)
 <use img/trichter.jpg>
 Package pdftex.def Info: img/trichter.jpg  used on input line 339.
 (pdftex.def)             Requested size: 37.3449pt x 69.92592pt.
-<img/trichter2.jpg, id=234, 226.8475pt x 187.70125pt>
+<img/trichter2.jpg, id=232, 226.8475pt x 187.70125pt>
 File: img/trichter2.jpg Graphic file (type jpg)
 <use img/trichter2.jpg>
 Package pdftex.def Info: img/trichter2.jpg  used on input line 351.
 (pdftex.def)             Requested size: 85.35696pt x 70.6255pt.
 [12 <./img/volumen_eppendorf.png> <./img/trichter.jpg>]
-<img/tropftrichter.jpg, id=250, 309.155pt x 709.65125pt>
+<img/tropftrichter.jpg, id=248, 309.155pt x 709.65125pt>
 File: img/tropftrichter.jpg Graphic file (type jpg)
 <use img/tropftrichter.jpg>
 Package pdftex.def Info: img/tropftrichter.jpg  used on input line 362.
@@ -1913,7 +1913,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 381--383
 \T1/lmr/m/n/12 Flüssig-Flüssig-Extraktionen ge-nutzt, aus wel-chen
  []
 
-<img/scheidetrichter.jpg, id=260, 213.79875pt x 532.99126pt>
+<img/scheidetrichter.jpg, id=258, 213.79875pt x 532.99126pt>
 File: img/scheidetrichter.jpg Graphic file (type jpg)
 <use img/scheidetrichter.jpg>
 Package pdftex.def Info: img/scheidetrichter.jpg  used on input line 389.
@@ -1928,12 +1928,12 @@ Underfull \hbox (badness 1028) in paragraph at lines 401--403
 [][] \T1/lmr/m/n/12 so-wie uni-ver-sal, che-misch be-stän-dig sind.
  []
 
-<img/Wasserschlauch.jpg, id=261, 669.50125pt x 501.875pt>
+<img/Wasserschlauch.jpg, id=259, 669.50125pt x 501.875pt>
 File: img/Wasserschlauch.jpg Graphic file (type jpg)
 <use img/Wasserschlauch.jpg>
 Package pdftex.def Info: img/Wasserschlauch.jpg  used on input line 407.
 (pdftex.def)             Requested size: 149.37958pt x 111.97507pt.
-<img/Vakuumschlauch.jpg, id=262, 1806.75pt x 1204.5pt>
+<img/Vakuumschlauch.jpg, id=260, 1806.75pt x 1204.5pt>
 File: img/Vakuumschlauch.jpg Graphic file (type jpg)
 <use img/Vakuumschlauch.jpg>
 Package pdftex.def Info: img/Vakuumschlauch.jpg  used on input line 415.
@@ -1960,7 +1960,7 @@ Underfull \hbox (badness 2726) in paragraph at lines 430--431
  als
  []
 
-<img/Olive.jpg, id=274, 842.14626pt x 157.58875pt>
+<img/Olive.jpg, id=272, 842.14626pt x 157.58875pt>
 File: img/Olive.jpg Graphic file (type jpg)
 <use img/Olive.jpg>
 Package pdftex.def Info: img/Olive.jpg  used on input line 432.
@@ -1989,7 +1989,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 436--437
  []
 
 [15 <./img/Olive.jpg>]
-<img/Nutsche.jpg, id=281, 363.3575pt x 405.515pt>
+<img/Nutsche.jpg, id=280, 363.3575pt x 405.515pt>
 File: img/Nutsche.jpg Graphic file (type jpg)
 <use img/Nutsche.jpg>
 Package pdftex.def Info: img/Nutsche.jpg  used on input line 469.
@@ -2011,7 +2011,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 474--475
  []
 
 [16 <./img/Nutsche.jpg>]
-<img/Watte.jpg, id=292, 149.55875pt x 280.04625pt>
+<img/Watte.jpg, id=291, 149.55875pt x 280.04625pt>
 File: img/Watte.jpg Graphic file (type jpg)
 <use img/Watte.jpg>
 Package pdftex.def Info: img/Watte.jpg  used on input line 479.
@@ -2021,13 +2021,13 @@ Overfull \hbox (10.91266pt too wide) in paragraph at lines 478--487
 [][]    [] 
  []
 
-<img/Waschflasche (Gas einleiten).jpg, id=293, 989.6975pt x 758.835pt>
+<img/Waschflasche (Gas einleiten).jpg, id=292, 989.6975pt x 758.835pt>
 File: img/Waschflasche (Gas einleiten).jpg Graphic file (type jpg)
 <use img/Waschflasche (Gas einleiten).jpg>
 Package pdftex.def Info: img/Waschflasche (Gas einleiten).jpg  used on input li
 ne 499.
 (pdftex.def)             Requested size: 104.56505pt x 80.17212pt.
-<img/Waschflasche (Gas absaugen).jpg, id=294, 1035.87pt x 782.925pt>
+<img/Waschflasche (Gas absaugen).jpg, id=293, 1035.87pt x 782.925pt>
 File: img/Waschflasche (Gas absaugen).jpg Graphic file (type jpg)
 <use img/Waschflasche (Gas absaugen).jpg>
 Package pdftex.def Info: img/Waschflasche (Gas absaugen).jpg  used on input lin
@@ -2038,7 +2038,7 @@ Overfull \hbox (2.38152pt too wide) in paragraph at lines 496--512
 [][]    [] 
  []
 
-<img/magnetruehrer.jpg, id=295, 269.005pt x 183.68625pt>
+<img/magnetruehrer.jpg, id=294, 269.005pt x 183.68625pt>
 File: img/magnetruehrer.jpg Graphic file (type jpg)
 <use img/magnetruehrer.jpg>
 Package pdftex.def Info: img/magnetruehrer.jpg  used on input line 527.
@@ -2054,7 +2054,7 @@ Underfull \hbox (badness 3568) in paragraph at lines 539--541
 \T1/lmr/m/n/12 Be-ga-sens. Aber auch für hoch-vis-ko-se Stof-fe im
  []
 
-<img/laborruehrer.jpg, id=303, 155.58125pt x 1044.90375pt>
+<img/laborruehrer.jpg, id=302, 155.58125pt x 1044.90375pt>
 File: img/laborruehrer.jpg Graphic file (type jpg)
 <use img/laborruehrer.jpg>
 Package pdftex.def Info: img/laborruehrer.jpg  used on input line 547.
@@ -2082,27 +2082,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 555--557
 
  []
 
-<img/propeller.png, id=304, 302.63063pt x 323.70938pt>
+<img/propeller.png, id=303, 302.63063pt x 323.70938pt>
 File: img/propeller.png Graphic file (type png)
 <use img/propeller.png>
 Package pdftex.def Info: img/propeller.png  used on input line 584.
 (pdftex.def)             Requested size: 85.35696pt x 91.29988pt.
-<img/scheibe.png, id=305, 424.58624pt x 396.7322pt>
+<img/scheibe.png, id=304, 424.58624pt x 396.7322pt>
 File: img/scheibe.png Graphic file (type png)
 <use img/scheibe.png>
 Package pdftex.def Info: img/scheibe.png  used on input line 584.
 (pdftex.def)             Requested size: 106.69783pt x 99.69736pt.
-<img/schraegblatt.png, id=306, 414.04688pt x 406.51875pt>
+<img/schraegblatt.png, id=305, 414.04688pt x 406.51875pt>
 File: img/schraegblatt.png Graphic file (type png)
 <use img/schraegblatt.png>
 Package pdftex.def Info: img/schraegblatt.png  used on input line 584.
 (pdftex.def)             Requested size: 93.8946pt x 92.1885pt.
-<img/anker.png, id=307, 258.9675pt x 341.02406pt>
+<img/anker.png, id=306, 258.9675pt x 341.02406pt>
 File: img/anker.png Graphic file (type png)
 <use img/anker.png>
 Package pdftex.def Info: img/anker.png  used on input line 584.
 (pdftex.def)             Requested size: 81.09138pt x 106.7883pt.
-<img/wendel.png, id=308, 252.945pt x 408.02437pt>
+<img/wendel.png, id=307, 252.945pt x 408.02437pt>
 File: img/wendel.png Graphic file (type png)
 <use img/wendel.png>
 Package pdftex.def Info: img/wendel.png  used on input line 584.
@@ -2150,12 +2150,12 @@ Underfull \hbox (badness 4479) in paragraph at lines 594--595
 \T1/lmr/m/n/12 wel-cher aus ei-nem Rohr mit ei-ner in-ne-ren
  []
 
-<img/dimroth.jpg, id=319, 183.68625pt x 663.98062pt>
+<img/dimroth.jpg, id=318, 183.68625pt x 663.98062pt>
 File: img/dimroth.jpg Graphic file (type jpg)
 <use img/dimroth.jpg>
 Package pdftex.def Info: img/dimroth.jpg  used on input line 601.
 (pdftex.def)             Requested size: 23.61377pt x 85.35826pt.
-<img/liebigkuehler.jpg, id=320, 700.86844pt x 357.58594pt>
+<img/liebigkuehler.jpg, id=319, 700.86844pt x 357.58594pt>
 File: img/liebigkuehler.jpg Graphic file (type jpg)
 <use img/liebigkuehler.jpg>
 Package pdftex.def Info: img/liebigkuehler.jpg  used on input line 614.
@@ -2235,7 +2235,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 650--652
 
  []
 
-<img/brennerflamme3.jpg, id=348, 688.5725pt x 275.0275pt>
+<img/brennerflamme3.jpg, id=347, 688.5725pt x 275.0275pt>
 File: img/brennerflamme3.jpg Graphic file (type jpg)
 <use img/brennerflamme3.jpg>
 Package pdftex.def Info: img/brennerflamme3.jpg  used on input line 655.
@@ -2258,7 +2258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 663--666
  []
 
 [22 <./img/brennerflamme3.jpg>]
-<img/Exsikkator.jpg, id=355, 1803.73875pt x 728.7225pt>
+<img/Exsikkator.jpg, id=354, 1803.73875pt x 728.7225pt>
 File: img/Exsikkator.jpg Graphic file (type jpg)
 <use img/Exsikkator.jpg>
 Package pdftex.def Info: img/Exsikkator.jpg  used on input line 671.
@@ -2268,7 +2268,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 679--680
 []\T1/lmr/m/n/12 Mit Tro-cken-schrän-ken kön-nen gleich-zei-tig meh-re-re
  []
 
-<img/Trockenschrank.jpg, id=356, 2208.25pt x 2128.95375pt>
+<img/Trockenschrank.jpg, id=355, 2208.25pt x 2128.95375pt>
 File: img/Trockenschrank.jpg Graphic file (type jpg)
 <use img/Trockenschrank.jpg>
 Package pdftex.def Info: img/Trockenschrank.jpg  used on input line 684.
@@ -2283,7 +2283,7 @@ Underfull \hbox (badness 2961) in paragraph at lines 695--697
 \T1/lmr/m/n/12 Ver-fah-ren in der Ana-ly-tik ge-nutzt oder in der
  []
 
-<img/Muffelofen.jpg, id=357, 1204.5pt x 903.375pt>
+<img/Muffelofen.jpg, id=356, 1204.5pt x 903.375pt>
 File: img/Muffelofen.jpg Graphic file (type jpg)
 <use img/Muffelofen.jpg>
 Package pdftex.def Info: img/Muffelofen.jpg  used on input line 701.
@@ -2294,12 +2294,12 @@ Underfull \hbox (badness 4366) in paragraph at lines 709--711
 h
  []
 
-<img/pumpenvergleich_1.jpeg, id=368, 1407.2575pt x 462.72874pt>
+<img/pumpenvergleich_1.jpeg, id=367, 1407.2575pt x 462.72874pt>
 File: img/pumpenvergleich_1.jpeg Graphic file (type jpg)
 <use img/pumpenvergleich_1.jpeg>
 Package pdftex.def Info: img/pumpenvergleich_1.jpeg  used on input line 717.
 (pdftex.def)             Requested size: 512.14832pt x 168.3968pt.
-<img/pumpenvergleich_2.jpeg, id=369, 1515.6625pt x 603.25375pt>
+<img/pumpenvergleich_2.jpeg, id=368, 1515.6625pt x 603.25375pt>
 File: img/pumpenvergleich_2.jpeg Graphic file (type jpg)
 <use img/pumpenvergleich_2.jpeg>
 Package pdftex.def Info: img/pumpenvergleich_2.jpeg  used on input line 726.
@@ -2376,7 +2376,7 @@ Underfull \hbox (badness 1931) in paragraph at lines 768--770
  []
 
 [26]
-<img/schliff.png, id=394, 194.22563pt x 81.30376pt>
+<img/schliff.png, id=393, 194.22563pt x 81.30376pt>
 File: img/schliff.png Graphic file (type png)
 <use img/schliff.png>
 Package pdftex.def Info: img/schliff.png  used on input line 773.
@@ -2415,12 +2415,12 @@ Underfull \hbox (badness 1755) in paragraph at lines 799--802
 , ein
  []
 
-<img/steckdose.jpg, id=402, 480.79625pt x 439.6425pt>
+<img/steckdose.jpg, id=401, 480.79625pt x 439.6425pt>
 File: img/steckdose.jpg Graphic file (type jpg)
 <use img/steckdose.jpg>
 Package pdftex.def Info: img/steckdose.jpg  used on input line 805.
 (pdftex.def)             Requested size: 105.63072pt x 96.58748pt.
-<img/cee-stecker.png, id=403, 740.0448pt x 555.0336pt>
+<img/cee-stecker.png, id=402, 740.0448pt x 555.0336pt>
 File: img/cee-stecker.png Graphic file (type png)
 <use img/cee-stecker.png>
 Package pdftex.def Info: img/cee-stecker.png  used on input line 810.
@@ -2464,10 +2464,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40898 strings out of 479837
- 956443 string characters out of 2880954
+ 40893 strings out of 479837
+ 956290 string characters out of 2880954
  1506853 words of memory out of 3000000
- 56748 multiletter control sequences out of 15000+200000
+ 56743 multiletter control sequences out of 15000+200000
  679517 words of font info for 128 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  106i,20n,111p,10613b,1064s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2486,9 +2486,9 @@ Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/f
 onts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lm
 ri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 00_Labor_Handout.pdf (32 pages, 10137397 bytes).
+Output written on 00_Labor_Handout.pdf (32 pages, 10136919 bytes).
 PDF statistics:
- 677 PDF objects out of 1000 (max. 8388607)
+ 673 PDF objects out of 1000 (max. 8388607)
  202 named destinations out of 1000 (max. 500000)
- 647 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 639 words of extra memory for PDF output out of 10000 (max. 10000000)
 

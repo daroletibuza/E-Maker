@@ -5,7 +5,6 @@
 \contentsline {subsection}{\numberline {2.2}Pipetten}{11}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Trichter}{12}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Schläuche}{14}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Oliven}{15}{subsubsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.5}Filter}{15}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}Waschflaschen}{17}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}Rührer}{18}{subsection.2.7}%
